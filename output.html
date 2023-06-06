@@ -1,0 +1,97 @@
+
+<script>
+    function showDiv() {
+        document.getElementById('convertedNotification').style.display = "none"
+      document.getElementById('welcomeDiv').style.display = "block"
+      document.getElementById('welcomeDiv2').style.display = "block"
+    }
+    </script>
+    <!-- Start of HTML code-->
+    <!DOCTYPE html>
+    <html>
+  
+      
+
+
+
+      <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>AWS Automation</title>
+        <style>
+
+
+
+          .loader {
+        margin-left: auto; margin-right: auto;
+        border: 16px solid #f3f3f3; /* Light grey */
+        border-top: 16px solid #3498db; /* Blue */
+        border-radius: 50%;
+        width: 120px;
+        height: 120px;
+        animation: spin 2s linear infinite;
+      }
+      
+      @keyframes spin {
+        0% { transform: rotate(0deg); }
+        100% { transform: rotate(360deg); }
+      }
+        </style>
+
+
+
+
+
+      </head>
+      
+      <body>
+        <h1 style="text-align: center;">Welcome to the Bill Converter Tool!</h1>
+        <br>
+        <h4 style="text-align: center;">Please submit a PDF to be converted. Please note only AWS Bills are allowed to be submitted</h4>
+        <h4 style="text-align: center;">Please select a file AND which PDF style you want to run</h4>
+        
+        <form action = "" method = "POST", enctype="multipart/form-data">
+          <input type="file" accept="application/pdf" name = "user_input"/>
+          <br>
+          <select onchange="this.form.action = this.value;">
+            <option value="">Select a PDF Style</option>
+            <option value="/process_input">$ Style</option>
+            
+            <option value="/process_input_usd">USD Style</option>
+          </select>
+          <br>
+          <input type = "submit" onclick="showDiv()" value = "Submit"/>
+        </form>
+        <br>
+
+
+    <h3>Please select a CSV to be converted. Please note, this requires preprocessing on your end.</h3>
+    <br>
+    <form action = "" method = "POST", enctype="multipart/form-data">
+      <input type="file" accept=".csv, application/vnd.openxmlformats-officedocument.spreadsheetml.sheet, application/vnd.ms-excel"  name = "user_input_csv"/>
+      <br>
+      <br>
+      <select onchange="this.form.action = this.value;">
+        <br>
+        <option value="">Select Which Company</option>
+        <option value="/process_input_aws_csv">AWS Bill</option>
+        
+        <option value="/process_input_azure_csv">Azure Bill</option>
+      </select>
+      <br>
+      <input type = "submit" onclick="showDiv()" value = "Submit"/>
+    </form>
+    <br>
+
+
+
+
+        <div id ="convertedNotification" style="display:block; text-align: center;"><p>Bill has been converted. Please check project folder for the output <br> Please move the output file to a new folder of your choice</p></div>
+        <br>
+        <div id="welcomeDiv"  style="display:none; text-align: center;" >Analyzing Bill</div>
+        <br>
+        <div id="welcomeDiv2"  style="display:none;" class="loader"></div>
+        
+      </body>
+    </html>

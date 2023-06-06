@@ -1,0 +1,897 @@
+unique_id_azure_compute_shapes
+D2as v5
+D4as v5
+D8as v5
+D16as v5
+D32as v5
+D48as v5
+D64as v5
+D96as v5
+D2ads v5
+D4ads v5
+D8ads v5
+D16ads v5
+D32ads v5
+D48ads v5
+D64ads v5
+D96ads v5
+D2a v4
+D4a v4
+D8a v4
+D16a v4
+D32a v4
+D48a v4
+D64a v4
+D96a v4
+D2as v4
+D4as v4
+D8as v4
+D16as v4
+D32as v4
+D48as v4
+D64as v4
+D96as v4
+D96d v5
+D96ds v5
+D96 v5
+D96s v5
+DC2ads v5
+DC4ads v5
+DC8ads v5
+DC16ads v5
+DC32ads v5
+DC48ads v5
+DC64ads v5
+DC96ads v5
+DC2as v5
+DC4as v5
+DC8as v5
+DC16as v5
+DC32as v5
+DC48as v5
+DC64as v5
+DC96as v5
+DC48s v3
+F72s v2
+HB60rs
+HB120rs v2
+HB120rs v3
+E2as v5
+E4as v5
+E8as v5
+E16as v5
+E20as v5
+E32as v5
+E48as v5
+E64as v5
+E96as v5
+E2ads v5
+E4ads v5
+E8ads v5
+E16ads v5
+E20ads v5
+E32ads v5
+E48ads v5
+E64ads v5
+E96ads v5
+E2a v4
+E4a v4
+E8a v4
+E16a v4
+E20a v4
+E32a v4
+E48a v4
+E64a v4
+E96a v4
+E2as v4
+E4as v4
+E8as v4
+E16as v4
+E20as v4
+E32as v4
+E48as v4
+E64as v4
+E96as v4
+E96d v5
+E104id v5
+E96ds v5
+E104ids v5
+E96 v5
+E104i v5
+E96s v5
+E104is v5
+E96bds v5
+E112ibds v5
+E96bs v5
+E112ibs v5
+E80ids v4 1
+EC2ads v5
+EC4ads v5
+EC8ads v5
+EC16ads v5
+EC20ads v5
+EC32ads v5
+EC48ads v5
+EC64ads v5
+EC96ads v5
+EC96iads v5
+EC2as v5
+EC4as v5
+EC8as v5
+EC16as v5
+EC20as v5
+EC32as v5
+EC48as v5
+EC64as v5
+EC96as v5
+EC96ias v5
+E80is v4 1
+M64 1
+M64s
+M32ms v2
+M64s v2
+L8s v2
+L16s v2
+L32s v2
+L48s v2
+L64s v2
+L80s v2
+L80s v3
+Windows - D2as v5
+Windows - D4as v5
+Windows - D8as v5
+Windows - D16as v5
+Windows - D32as v5
+Windows - D48as v5
+Windows - D64as v5
+Windows - D96as v5
+Windows - D2ads v5
+Windows - D4ads v5
+Windows - D8ads v5
+Windows - D16ads v5
+Windows - D32ads v5
+Windows - D48ads v5
+Windows - D64ads v5
+Windows - D96ads v5
+Windows - D2a v4
+Windows - D4a v4
+Windows - D8a v4
+Windows - D16a v4
+Windows - D32a v4
+Windows - D48a v4
+Windows - D64a v4
+Windows - D96a v4
+Windows - D2as v4
+Windows - D4as v4
+Windows - D8as v4
+Windows - D16as v4
+Windows - D32as v4
+Windows - D48as v4
+Windows - D64as v4
+Windows - D96as v4
+Windows - D96d v5
+Windows - D96ds v5
+Windows - D96 v5
+Windows - D96s v5
+Windows - DC2ads v5
+Windows - DC4ads v5
+Windows - DC8ads v5
+Windows - DC16ads v5
+Windows - DC32ads v5
+Windows - DC48ads v5
+Windows - DC64ads v5
+Windows - DC96ads v5
+Windows - DC2as v5
+Windows - DC4as v5
+Windows - DC8as v5
+Windows - DC16as v5
+Windows - DC32as v5
+Windows - DC48as v5
+Windows - DC64as v5
+Windows - DC96as v5
+Windows - DC48s v3
+Windows - F72s v2
+Windows - HB60rs
+Windows - HB120rs v2
+Windows - HB120rs v3
+Windows - E2as v5
+Windows - E4as v5
+Windows - E8as v5
+Windows - E16as v5
+Windows - E20as v5
+Windows - E32as v5
+Windows - E48as v5
+Windows - E64as v5
+Windows - E96as v5
+Windows - E2ads v5
+Windows - E4ads v5
+Windows - E8ads v5
+Windows - E16ads v5
+Windows - E20ads v5
+Windows - E32ads v5
+Windows - E48ads v5
+Windows - E64ads v5
+Windows - E96ads v5
+Windows - E2a v4
+Windows - E4a v4
+Windows - E8a v4
+Windows - E16a v4
+Windows - E20a v4
+Windows - E32a v4
+Windows - E48a v4
+Windows - E64a v4
+Windows - E96a v4
+Windows - E2as v4
+Windows - E4as v4
+Windows - E8as v4
+Windows - E16as v4
+Windows - E20as v4
+Windows - E32as v4
+Windows - E48as v4
+Windows - E64as v4
+Windows - E96as v4
+Windows - E96d v5
+Windows - E104id v5
+Windows - E96ds v5
+Windows - E104ids v5
+Windows - E96 v5
+Windows - E104i v5
+Windows - E96s v5
+Windows - E104is v5
+Windows - E96bds v5
+Windows - E112ibds v5
+Windows - E96bs v5
+Windows - E112ibs v5
+Windows - E80ids v4 1
+Windows - EC2ads v5
+Windows - EC4ads v5
+Windows - EC8ads v5
+Windows - EC16ads v5
+Windows - EC20ads v5
+Windows - EC32ads v5
+Windows - EC48ads v5
+Windows - EC64ads v5
+Windows - EC96ads v5
+Windows - EC96iads v5
+Windows - EC2as v5
+Windows - EC4as v5
+Windows - EC8as v5
+Windows - EC16as v5
+Windows - EC20as v5
+Windows - EC32as v5
+Windows - EC48as v5
+Windows - EC64as v5
+Windows - EC96as v5
+Windows - EC96ias v5
+Windows - E80is v4 1
+Windows - M64 1
+Windows - M64s
+Windows - M32ms v2
+Windows - M64s v2
+Windows - L8s v2
+Windows - L16s v2
+Windows - L32s v2
+Windows - L48s v2
+Windows - L64s v2
+Windows - L80s v2
+Windows - L80s v3
+DC1s v2
+DC2s v2
+DC4s v2
+DC8 v2
+FX4mds
+FX12mds
+FX24mds
+H8
+H8m
+H16r
+H16
+H16mr
+H16m
+Windows - DC1s v2
+Windows - DC2s v2
+Windows - DC4s v2
+Windows - DC8 v2
+Windows - FX4mds
+Windows - FX12mds
+Windows - FX24mds
+Windows - H8
+Windows - H8m
+Windows - H16r
+Windows - H16
+Windows - H16mr
+Windows - H16m
+D2d v5
+D4d v5
+D8d v5
+D16d v5
+D32d v5
+D48d v5
+D64d v5
+D2ds v5
+D4ds v5
+D8ds v5
+D16ds v5
+D32ds v5
+D48ds v5
+D64ds v5
+D2 v5
+D4 v5
+D8 v5
+D16 v5
+D32 v5
+D48 v5
+D64 v5
+D2s v5
+D4s v5
+D8s v5
+D16s v5
+D32s v5
+D48s v5
+D64s v5
+D2d v4
+D4d v4
+D8d v4
+D16d v4
+D32d v4
+D48d v4
+D64d v4
+D2ds v4
+D4ds v4
+D8ds v4
+D16ds v4
+D32ds v4
+D48ds v4
+D64ds v4
+D2 v4
+D4 v4
+D8 v4
+D16 v4
+D32 v4
+D48 v4
+D64 v4
+D2s v4
+D4s v4
+D8s v4
+D16s v4
+D32s v4
+D48s v4
+D64s v4
+D2 v3
+D4 v3
+D8 v3
+D16 v3
+D32 v3
+D48 v3
+D64 v3
+D2s v3
+D4s v3
+D8s v3
+D16s v3
+D32s v3
+D48s v3
+D64s v3
+DC1s v3
+DC2s v3
+DC4s v3
+DC8s v3
+DC16s v3
+DC24s v3
+DC32s v3
+DC1ds v3
+DC2ds v3
+DC4ds v3
+DC8ds v3
+DC16ds v3
+DC24ds v3
+DC32ds v3
+DC48ds v3
+D1 v2
+D2 v2
+D3 v2
+D4 v2
+D5 v2
+DS1 v2
+DS2 v2
+DS3 v2
+DS4 v2
+DS5 v2
+F2s v2
+F4s v2
+F8s v2
+F16s v2
+F32s v2
+F48s v2
+F64s v2
+F1
+F2
+F4
+F8
+F16
+F1s
+F2s
+F4s
+F8s
+F16s
+FX36mds
+FX48mds
+E2d v5
+E4d v5
+E8d v5
+E16d v5
+E20d v5
+E32d v5
+E48d v5
+E64d v5
+E2ds v5
+E4ds v5
+E8ds v5
+E16ds v5
+E20ds v5
+E32ds v5
+E48ds v5
+E64ds v5
+E2 v5
+E4 v5
+E8 v5
+E16 v5
+E20 v5
+E32 v5
+E48 v5
+E64 v5
+E2s v5
+E4s v5
+E8s v5
+E16s v5
+E20s v5
+E32s v5
+E48s v5
+E64s v5
+E2bds v5
+E4bds v5
+E8bds v5
+E16bds v5
+E32bds v5
+E48bds v5
+E64bds v5
+E2bs v5
+E4bs v5
+E8bs v5
+E16bs v5
+E32bs v5
+E48bs v5
+E64bs v5
+E2d v4
+E4d v4
+E8d v4
+E16d v4
+E20d v4
+E32d v4
+E48d v4
+E64d v4
+E2ds v4
+E4ds v4
+E8ds v4
+E16ds v4
+E20ds v4
+E32ds v4
+E48ds v4
+E64ds v4
+E2 v4
+E4 v4
+E8 v4
+E16 v4
+E32 v4
+E48 v4
+E64 v4
+E2s v4
+E4s v4
+E8s v4
+E16s v4
+E20s v4
+E32s v4
+E48s v4
+E64s v4
+E2 v3
+E4 v3
+E8 v3
+E16 v3
+E20 v3
+E32 v3
+E48 v3
+E64i v3 1
+E64 v3
+E2s v3
+E4s v3
+E8s v3
+E16s v3
+E20s v3
+E32s v3
+E48s v3
+E64is v3 1
+E64s v3
+D11 v2
+D12 v2
+D13 v2
+D14 v2
+D15i v2 1
+D15 v2
+DS11 v2
+DS12 v2
+DS13 v2
+DS14 v2
+DS15i v2 1
+DS15 v2
+M8ms
+M16ms
+M32ts
+M32ls
+M32ms
+M64ls
+M64ms
+M64m 1
+M128s
+M128 1
+M128ms
+M128m 1
+M64ms v2
+M128s v2
+M128ms v2
+M192is v2
+M192ims v2
+M208s v2
+M208ms v2
+M416s v2
+M416ms v2
+L8s v3
+L16s v3
+L32s v3
+L48s v3
+L64s v3
+Windows - D2d v5
+Windows - D4d v5
+Windows - D8d v5
+Windows - D16d v5
+Windows - D32d v5
+Windows - D48d v5
+Windows - D64d v5
+Windows - D2ds v5
+Windows - D4ds v5
+Windows - D8ds v5
+Windows - D16ds v5
+Windows - D32ds v5
+Windows - D48ds v5
+Windows - D64ds v5
+Windows - D2 v5
+Windows - D4 v5
+Windows - D8 v5
+Windows - D16 v5
+Windows - D32 v5
+Windows - D48 v5
+Windows - D64 v5
+Windows - D2s v5
+Windows - D4s v5
+Windows - D8s v5
+Windows - D16s v5
+Windows - D32s v5
+Windows - D48s v5
+Windows - D64s v5
+Windows - D2d v4
+Windows - D4d v4
+Windows - D8d v4
+Windows - D16d v4
+Windows - D32d v4
+Windows - D48d v4
+Windows - D64d v4
+Windows - D2ds v4
+Windows - D4ds v4
+Windows - D8ds v4
+Windows - D16ds v4
+Windows - D32ds v4
+Windows - D48ds v4
+Windows - D64ds v4
+Windows - D2 v4
+Windows - D4 v4
+Windows - D8 v4
+Windows - D16 v4
+Windows - D32 v4
+Windows - D48 v4
+Windows - D64 v4
+Windows - D2s v4
+Windows - D4s v4
+Windows - D8s v4
+Windows - D16s v4
+Windows - D32s v4
+Windows - D48s v4
+Windows - D64s v4
+Windows - D2 v3
+Windows - D4 v3
+Windows - D8 v3
+Windows - D16 v3
+Windows - D32 v3
+Windows - D48 v3
+Windows - D64 v3
+Windows - D2s v3
+Windows - D4s v3
+Windows - D8s v3
+Windows - D16s v3
+Windows - D32s v3
+Windows - D48s v3
+Windows - D64s v3
+Windows - DC1s v3
+Windows - DC2s v3
+Windows - DC4s v3
+Windows - DC8s v3
+Windows - DC16s v3
+Windows - DC24s v3
+Windows - DC32s v3
+Windows - DC1ds v3
+Windows - DC2ds v3
+Windows - DC4ds v3
+Windows - DC8ds v3
+Windows - DC16ds v3
+Windows - DC24ds v3
+Windows - DC32ds v3
+Windows - DC48ds v3
+Windows - D1 v2
+Windows - D2 v2
+Windows - D3 v2
+Windows - D4 v2
+Windows - D5 v2
+Windows - DS1 v2
+Windows - DS2 v2
+Windows - DS3 v2
+Windows - DS4 v2
+Windows - DS5 v2
+Windows - F2s v2
+Windows - F4s v2
+Windows - F8s v2
+Windows - F16s v2
+Windows - F32s v2
+Windows - F48s v2
+Windows - F64s v2
+Windows - F1
+Windows - F2
+Windows - F4
+Windows - F8
+Windows - F16
+Windows - F1s
+Windows - F2s
+Windows - F4s
+Windows - F8s
+Windows - F16s
+Windows - FX36mds
+Windows - FX48mds
+Windows - E2d v5
+Windows - E4d v5
+Windows - E8d v5
+Windows - E16d v5
+Windows - E20d v5
+Windows - E32d v5
+Windows - E48d v5
+Windows - E64d v5
+Windows - E2ds v5
+Windows - E4ds v5
+Windows - E8ds v5
+Windows - E16ds v5
+Windows - E20ds v5
+Windows - E32ds v5
+Windows - E48ds v5
+Windows - E64ds v5
+Windows - E2 v5
+Windows - E4 v5
+Windows - E8 v5
+Windows - E16 v5
+Windows - E20 v5
+Windows - E32 v5
+Windows - E48 v5
+Windows - E64 v5
+Windows - E2s v5
+Windows - E4s v5
+Windows - E8s v5
+Windows - E16s v5
+Windows - E20s v5
+Windows - E32s v5
+Windows - E48s v5
+Windows - E64s v5
+Windows - E2bds v5
+Windows - E4bds v5
+Windows - E8bds v5
+Windows - E16bds v5
+Windows - E32bds v5
+Windows - E48bds v5
+Windows - E64bds v5
+Windows - E2bs v5
+Windows - E4bs v5
+Windows - E8bs v5
+Windows - E16bs v5
+Windows - E32bs v5
+Windows - E48bs v5
+Windows - E64bs v5
+Windows - E2d v4
+Windows - E4d v4
+Windows - E8d v4
+Windows - E16d v4
+Windows - E20d v4
+Windows - E32d v4
+Windows - E48d v4
+Windows - E64d v4
+Windows - E2ds v4
+Windows - E4ds v4
+Windows - E8ds v4
+Windows - E16ds v4
+Windows - E20ds v4
+Windows - E32ds v4
+Windows - E48ds v4
+Windows - E64ds v4
+Windows - E2 v4
+Windows - E4 v4
+Windows - E8 v4
+Windows - E16 v4
+Windows - E32 v4
+Windows - E48 v4
+Windows - E64 v4
+Windows - E2s v4
+Windows - E4s v4
+Windows - E8s v4
+Windows - E16s v4
+Windows - E20s v4
+Windows - E32s v4
+Windows - E48s v4
+Windows - E64s v4
+Windows - E2 v3
+Windows - E4 v3
+Windows - E8 v3
+Windows - E16 v3
+Windows - E20 v3
+Windows - E32 v3
+Windows - E48 v3
+Windows - E64i v3 1
+Windows - E64 v3
+Windows - E2s v3
+Windows - E4s v3
+Windows - E8s v3
+Windows - E16s v3
+Windows - E20s v3
+Windows - E32s v3
+Windows - E48s v3
+Windows - E64is v3 1
+Windows - E64s v3
+Windows - D11 v2
+Windows - D12 v2
+Windows - D13 v2
+Windows - D14 v2
+Windows - D15i v2 1
+Windows - D15 v2
+Windows - DS11 v2
+Windows - DS12 v2
+Windows - DS13 v2
+Windows - DS14 v2
+Windows - DS15i v2 1
+Windows - DS15 v2
+Windows - M8ms
+Windows - M16ms
+Windows - M32ts
+Windows - M32ls
+Windows - M32ms
+Windows - M64ls
+Windows - M64ms
+Windows - M64m 1
+Windows - M128s
+Windows - M128 1
+Windows - M128ms
+Windows - M128m 1
+Windows - M64ms v2
+Windows - M128s v2
+Windows - M128ms v2
+Windows - M192is v2
+Windows - M192ims v2
+Windows - M208s v2
+Windows - M208ms v2
+Windows - M416s v2
+Windows - M416ms v2
+Windows - L8s v3
+Windows - L16s v3
+Windows - L32s v3
+Windows - L48s v3
+Windows - L64s v3
+A1 v2
+A2 v2
+A2m v2
+A4 v2
+A4m v2
+A8 v2
+A8m v2
+D2ps v5
+D4ps v5
+D8ps v5
+D16ps v5
+D32ps v5
+D48ps v5
+D64ps v5
+D2pds v5
+D4pds v5
+D8pds v5
+D16pds v5
+D32pds v5
+D48pds v5
+D64pds v5
+D2pls v5
+D4pls v5
+D8pls v5
+D16pls v5
+D32pls v5
+D48pls v5
+D64pls v5
+D2plds v5
+D4plds v5
+D8plds v5
+D16plds v5
+D32plds v5
+D48plds v5
+D64plds v5
+E2ps v5
+E4ps v5
+E8ps v5
+E16ps v5
+E20ps v5
+E32ps v5
+E2pds v5
+E4pds v5
+E8pds v5
+E16pds v5
+E20pds v5
+E32pds v5
+Windows - A1 v2
+Windows - A2 v2
+Windows - A2m v2
+Windows - A4 v2
+Windows - A4m v2
+Windows - A8 v2
+Windows - A8m v2
+Windows - D2ps v5
+Windows - D4ps v5
+Windows - D8ps v5
+Windows - D16ps v5
+Windows - D32ps v5
+Windows - D48ps v5
+Windows - D64ps v5
+Windows - D2pds v5
+Windows - D4pds v5
+Windows - D8pds v5
+Windows - D16pds v5
+Windows - D32pds v5
+Windows - D48pds v5
+Windows - D64pds v5
+Windows - D2pls v5
+Windows - D4pls v5
+Windows - D8pls v5
+Windows - D16pls v5
+Windows - D32pls v5
+Windows - D48pls v5
+Windows - D64pls v5
+Windows - D2plds v5
+Windows - D4plds v5
+Windows - D8plds v5
+Windows - D16plds v5
+Windows - D32plds v5
+Windows - D48plds v5
+Windows - D64plds v5
+Windows - E2ps v5
+Windows - E4ps v5
+Windows - E8ps v5
+Windows - E16ps v5
+Windows - E20ps v5
+Windows - E32ps v5
+Windows - E2pds v5
+Windows - E4pds v5
+Windows - E8pds v5
+Windows - E16pds v5
+Windows - E20pds v5
+Windows - E32pds v5
+LB Rules
+LB Rules
+Azure Cosmos DB
+Azure Cosmos DB
+Azure Cosmos DB
+Backup

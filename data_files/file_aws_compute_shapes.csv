@@ -1,0 +1,2781 @@
+unique_id_aws_compute_shapes
+Linux c4.2xlarge
+Linux c4.4xlarge
+Linux c4.8xlarge
+Linux c4.large
+Linux c4.xlarge
+Linux c5a.24xlarge
+Linux c5n.18xlarge
+Linux c5n.2xlarge
+Linux c5n.4xlarge
+Linux c5n.9xlarge
+Linux c5n.large
+Linux c5n.metal
+Linux c5n.xlarge
+Linux c6i.12xlarge
+Linux c6i.16xlarge
+Linux c6i.24xlarge
+Linux c6i.2xlarge
+Linux c6i.32xlarge
+Linux c6i.4xlarge
+Linux c6i.8xlarge
+Linux c6i.large
+Linux c6i.metal
+Linux c6i.xlarge
+Linux c6in.2xlarge
+Linux c6in.4xlarge
+Linux c6in.8xlarge
+Linux c6in.large
+Linux c6in.xlarge
+Linux Hpc6a.48xlarge
+Linux m4.10xlarge
+Linux m4.16xlarge
+Linux m4.2xlarge
+Linux m4.4xlarge
+Linux m4.large
+Linux m4.xlarge
+Linux m5.12xlarge
+Linux m5.16xlarge
+Linux m5.24xlarge
+Linux m5.2xlarge
+Linux m5.4xlarge
+Linux m5.8xlarge
+Linux m5.large
+Linux m5.metal
+Linux m5.xlarge
+Linux m5a.12xlarge
+Linux m5a.16xlarge
+Linux m5a.24xlarge
+Linux m5a.2xlarge
+Linux m5a.4xlarge
+Linux m5a.8xlarge
+Linux m5a.large
+Linux m5a.xlarge
+Linux m5n.12xlarge
+Linux m5n.16xlarge
+Linux m5n.24xlarge
+Linux m5n.2xlarge
+Linux m5n.4xlarge
+Linux m5n.8xlarge
+Linux m5n.large
+Linux m5n.metal
+Linux m5n.xlarge
+Linux m5zn.12xlarge
+Linux m5zn.2xlarge
+Linux m5zn.3xlarge
+Linux m5zn.6xlarge
+Linux m5zn.large
+Linux m5zn.metal
+Linux m5zn.xlarge
+Linux m6a.12xlarge
+Linux m6a.16xlarge
+Linux m6a.24xlarge
+Linux m6a.2xlarge
+Linux m6a.32xlarge
+Linux m6a.48xlarge
+Linux m6a.4xlarge
+Linux m6a.8xlarge
+Linux m6a.large
+Linux m6a.metal
+Linux m6a.xlarge
+Linux m6i.12xlarge
+Linux m6i.16xlarge
+Linux m6i.24xlarge
+Linux m6i.2xlarge
+Linux m6i.32xlarge
+Linux m6i.4xlarge
+Linux m6i.8xlarge
+Linux m6i.large
+Linux m6i.metal
+Linux m6i.xlarge
+Linux m6in.12xlarge
+Linux m6in.16xlarge
+Linux m6in.24xlarge
+Linux m6in.2xlarge
+Linux m6in.32xlarge
+Linux m6in.4xlarge
+Linux m6in.8xlarge
+Linux m6in.large
+Linux m6in.xlarge
+Linux r6a.12xlarge
+Linux r6a.16xlarge
+Linux r6a.24xlarge
+Linux r6a.2xlarge
+Linux r6a.32xlarge
+Linux r6a.48xlarge
+Linux r6a.4xlarge
+Linux r6a.8xlarge
+Linux r6a.large
+Linux r6a.metal
+Linux r6a.xlarge
+Linux r6i.12xlarge
+Linux r6i.16xlarge
+Linux r6i.24xlarge
+Linux r6i.2xlarge
+Linux r6i.32xlarge
+Linux r6i.4xlarge
+Linux r6i.8xlarge
+Linux r6i.large
+Linux r6i.metal
+Linux r6i.xlarge
+Linux r6id.12xlarge
+Linux r6id.16xlarge
+Linux r6id.24xlarge
+Linux r6id.2xlarge
+Linux r6id.32xlarge
+Linux r6id.4xlarge
+Linux r6id.8xlarge
+Linux r6id.large
+Linux r6id.metal
+Linux r6id.xlarge
+Linux r6in.12xlarge
+Linux r6in.16xlarge
+Linux r6in.24xlarge
+Linux r6in.2xlarge
+Linux r6in.32xlarge
+Linux r6in.4xlarge
+Linux r6in.8xlarge
+Linux r6in.large
+Linux r6in.xlarge
+Linux R7iz
+Linux t2.2xlarge
+Linux t2.large
+Linux t2.medium
+Linux t2.micro
+Linux t2.nano
+Linux t2.small
+Linux t2.xlarge
+Linux t3.2xlarge
+Linux t3.large
+Linux t3.medium
+Linux t3.micro
+Linux t3.nano
+Linux t3.small
+Linux t3.xlarge
+Linux t3a.2xlarge
+Linux t3a.large
+Linux t3a.medium
+Linux t3a.micro
+Linux t3a.nano
+Linux t3a.small
+Linux t3a.xlarge
+RHEL c4.2xlarge
+RHEL c4.4xlarge
+RHEL c4.8xlarge
+RHEL c4.large
+RHEL c4.xlarge
+RHEL c5a.24xlarge
+RHEL c5n.18xlarge
+RHEL c5n.2xlarge
+RHEL c5n.4xlarge
+RHEL c5n.9xlarge
+RHEL c5n.large
+RHEL c5n.metal
+RHEL c5n.xlarge
+RHEL c6i.12xlarge
+RHEL c6i.16xlarge
+RHEL c6i.24xlarge
+RHEL c6i.2xlarge
+RHEL c6i.32xlarge
+RHEL c6i.4xlarge
+RHEL c6i.8xlarge
+RHEL c6i.large
+RHEL c6i.metal
+RHEL c6i.xlarge
+RHEL c6in.2xlarge
+RHEL c6in.4xlarge
+RHEL c6in.8xlarge
+RHEL c6in.large
+RHEL c6in.xlarge
+RHEL Hpc6a.48xlarge
+RHEL m4.10xlarge
+RHEL m4.16xlarge
+RHEL m4.2xlarge
+RHEL m4.4xlarge
+RHEL m4.large
+RHEL m4.xlarge
+RHEL m5.12xlarge
+RHEL m5.16xlarge
+RHEL m5.24xlarge
+RHEL m5.2xlarge
+RHEL m5.4xlarge
+RHEL m5.8xlarge
+RHEL m5.large
+RHEL m5.metal
+RHEL m5.xlarge
+RHEL m5a.12xlarge
+RHEL m5a.16xlarge
+RHEL m5a.24xlarge
+RHEL m5a.2xlarge
+RHEL m5a.4xlarge
+RHEL m5a.8xlarge
+RHEL m5a.large
+RHEL m5a.xlarge
+RHEL m5n.12xlarge
+RHEL m5n.16xlarge
+RHEL m5n.24xlarge
+RHEL m5n.2xlarge
+RHEL m5n.4xlarge
+RHEL m5n.8xlarge
+RHEL m5n.large
+RHEL m5n.metal
+RHEL m5n.xlarge
+RHEL m5zn.12xlarge
+RHEL m5zn.2xlarge
+RHEL m5zn.3xlarge
+RHEL m5zn.6xlarge
+RHEL m5zn.large
+RHEL m5zn.metal
+RHEL m5zn.xlarge
+RHEL m6a.12xlarge
+RHEL m6a.16xlarge
+RHEL m6a.24xlarge
+RHEL m6a.2xlarge
+RHEL m6a.32xlarge
+RHEL m6a.48xlarge
+RHEL m6a.4xlarge
+RHEL m6a.8xlarge
+RHEL m6a.large
+RHEL m6a.metal
+RHEL m6a.xlarge
+RHEL m6i.12xlarge
+RHEL m6i.16xlarge
+RHEL m6i.24xlarge
+RHEL m6i.2xlarge
+RHEL m6i.32xlarge
+RHEL m6i.4xlarge
+RHEL m6i.8xlarge
+RHEL m6i.large
+RHEL m6i.metal
+RHEL m6i.xlarge
+RHEL m6in.12xlarge
+RHEL m6in.16xlarge
+RHEL m6in.24xlarge
+RHEL m6in.2xlarge
+RHEL m6in.32xlarge
+RHEL m6in.4xlarge
+RHEL m6in.8xlarge
+RHEL m6in.large
+RHEL m6in.xlarge
+RHEL r6a.12xlarge
+RHEL r6a.16xlarge
+RHEL r6a.24xlarge
+RHEL r6a.2xlarge
+RHEL r6a.32xlarge
+RHEL r6a.48xlarge
+RHEL r6a.4xlarge
+RHEL r6a.8xlarge
+RHEL r6a.large
+RHEL r6a.metal
+RHEL r6a.xlarge
+RHEL r6i.12xlarge
+RHEL r6i.16xlarge
+RHEL r6i.24xlarge
+RHEL r6i.2xlarge
+RHEL r6i.32xlarge
+RHEL r6i.4xlarge
+RHEL r6i.8xlarge
+RHEL r6i.large
+RHEL r6i.metal
+RHEL r6i.xlarge
+RHEL r6id.12xlarge
+RHEL r6id.16xlarge
+RHEL r6id.24xlarge
+RHEL r6id.2xlarge
+RHEL r6id.32xlarge
+RHEL r6id.4xlarge
+RHEL r6id.8xlarge
+RHEL r6id.large
+RHEL r6id.metal
+RHEL r6id.xlarge
+RHEL r6in.12xlarge
+RHEL r6in.16xlarge
+RHEL r6in.24xlarge
+RHEL r6in.2xlarge
+RHEL r6in.32xlarge
+RHEL r6in.4xlarge
+RHEL r6in.8xlarge
+RHEL r6in.large
+RHEL r6in.xlarge
+RHEL R7iz
+RHEL t2.2xlarge
+RHEL t2.large
+RHEL t2.medium
+RHEL t2.micro
+RHEL t2.nano
+RHEL t2.small
+RHEL t2.xlarge
+RHEL t3.2xlarge
+RHEL t3.large
+RHEL t3.medium
+RHEL t3.micro
+RHEL t3.nano
+RHEL t3.small
+RHEL t3.xlarge
+RHEL t3a.2xlarge
+RHEL t3a.large
+RHEL t3a.medium
+RHEL t3a.micro
+RHEL t3a.nano
+RHEL t3a.small
+RHEL t3a.xlarge
+Windows c4.2xlarge
+Windows c4.4xlarge
+Windows c4.8xlarge
+Windows c4.large
+Windows c4.xlarge
+Windows c5a.24xlarge
+Windows c5n.18xlarge
+Windows c5n.2xlarge
+Windows c5n.4xlarge
+Windows c5n.9xlarge
+Windows c5n.large
+Windows c5n.metal
+Windows c5n.xlarge
+Windows c6i.12xlarge
+Windows c6i.16xlarge
+Windows c6i.24xlarge
+Windows c6i.2xlarge
+Windows c6i.32xlarge
+Windows c6i.4xlarge
+Windows c6i.8xlarge
+Windows c6i.large
+Windows c6i.metal
+Windows c6i.xlarge
+Windows c6in.2xlarge
+Windows c6in.4xlarge
+Windows c6in.8xlarge
+Windows c6in.large
+Windows c6in.xlarge
+Windows Hpc6a.48xlarge
+Windows m4.10xlarge
+Windows m4.16xlarge
+Windows m4.2xlarge
+Windows m4.4xlarge
+Windows m4.large
+Windows m4.xlarge
+Windows m5.12xlarge
+Windows m5.16xlarge
+Windows m5.24xlarge
+Windows m5.2xlarge
+Windows m5.4xlarge
+Windows m5.8xlarge
+Windows m5.large
+Windows m5.metal
+Windows m5.xlarge
+Windows m5a.12xlarge
+Windows m5a.16xlarge
+Windows m5a.24xlarge
+Windows m5a.2xlarge
+Windows m5a.4xlarge
+Windows m5a.8xlarge
+Windows m5a.large
+Windows m5a.xlarge
+Windows m5n.12xlarge
+Windows m5n.16xlarge
+Windows m5n.24xlarge
+Windows m5n.2xlarge
+Windows m5n.4xlarge
+Windows m5n.8xlarge
+Windows m5n.large
+Windows m5n.metal
+Windows m5n.xlarge
+Windows m5zn.12xlarge
+Windows m5zn.2xlarge
+Windows m5zn.3xlarge
+Windows m5zn.6xlarge
+Windows m5zn.large
+Windows m5zn.metal
+Windows m5zn.xlarge
+Windows m6a.12xlarge
+Windows m6a.16xlarge
+Windows m6a.24xlarge
+Windows m6a.2xlarge
+Windows m6a.32xlarge
+Windows m6a.48xlarge
+Windows m6a.4xlarge
+Windows m6a.8xlarge
+Windows m6a.large
+Windows m6a.metal
+Windows m6a.xlarge
+Windows m6i.12xlarge
+Windows m6i.16xlarge
+Windows m6i.24xlarge
+Windows m6i.2xlarge
+Windows m6i.32xlarge
+Windows m6i.4xlarge
+Windows m6i.8xlarge
+Windows m6i.large
+Windows m6i.metal
+Windows m6i.xlarge
+Windows m6in.12xlarge
+Windows m6in.16xlarge
+Windows m6in.24xlarge
+Windows m6in.2xlarge
+Windows m6in.32xlarge
+Windows m6in.4xlarge
+Windows m6in.8xlarge
+Windows m6in.large
+Windows m6in.xlarge
+Windows r6a.12xlarge
+Windows r6a.16xlarge
+Windows r6a.24xlarge
+Windows r6a.2xlarge
+Windows r6a.32xlarge
+Windows r6a.48xlarge
+Windows r6a.4xlarge
+Windows r6a.8xlarge
+Windows r6a.large
+Windows r6a.metal
+Windows r6a.xlarge
+Windows r6i.12xlarge
+Windows r6i.16xlarge
+Windows r6i.24xlarge
+Windows r6i.2xlarge
+Windows r6i.32xlarge
+Windows r6i.4xlarge
+Windows r6i.8xlarge
+Windows r6i.large
+Windows r6i.metal
+Windows r6i.xlarge
+Windows r6id.12xlarge
+Windows r6id.16xlarge
+Windows r6id.24xlarge
+Windows r6id.2xlarge
+Windows r6id.32xlarge
+Windows r6id.4xlarge
+Windows r6id.8xlarge
+Windows r6id.large
+Windows r6id.metal
+Windows r6id.xlarge
+Windows r6idn.12xlarge
+Windows r6idn.16xlarge
+Windows r6idn.24xlarge
+Windows r6idn.2xlarge
+Windows r6idn.32xlarge
+Windows r6idn.4xlarge
+Windows r6idn.8xlarge
+Windows r6idn.large
+Windows r6idn.xlarge
+Windows r6in.12xlarge
+Windows r6in.16xlarge
+Windows r6in.24xlarge
+Windows r6in.2xlarge
+Windows r6in.32xlarge
+Windows r6in.4xlarge
+Windows r6in.8xlarge
+Windows r6in.large
+Windows r6in.xlarge
+Windows R7iz
+Windows t2.2xlarge
+Windows t2.large
+Windows t2.medium
+Windows t2.micro
+Windows t2.nano
+Windows t2.small
+Windows t2.xlarge
+Windows t3.2xlarge
+Windows t3.large
+Windows t3.medium
+Windows t3.micro
+Windows t3.nano
+Windows t3.small
+Windows t3.xlarge
+Windows t3a.2xlarge
+Windows t3a.large
+Windows t3a.medium
+Windows t3a.micro
+Windows t3a.nano
+Windows t3a.small
+Windows t3a.xlarge
+Linux c6a.metal
+Linux c6a.48xlarge
+Linux c6a.32xlarge
+Linux c6a.24xlarge
+Linux c6a.16xlarge
+Linux c6a.12xlarge
+Linux c6a.8xlarge
+Linux c6a.4xlarge
+Linux c6a.2xlarge
+Linux c6a.xlarge
+Linux c6a.large
+Windows c6a.metal
+Windows c6a.48xlarge
+Windows c6a.32xlarge
+Windows c6a.24xlarge
+Windows c6a.16xlarge
+Windows c6a.12xlarge
+Windows c6a.8xlarge
+Windows c6a.4xlarge
+Windows c6a.2xlarge
+Windows c6a.xlarge
+Windows c6a.large
+RHEL c6a.metal
+RHEL c6a.48xlarge
+RHEL c6a.32xlarge
+RHEL c6a.24xlarge
+RHEL c6a.16xlarge
+RHEL c6a.12xlarge
+RHEL c6a.8xlarge
+RHEL c6a.4xlarge
+RHEL c6a.2xlarge
+RHEL c6a.xlarge
+RHEL c6a.large
+Linux r4.16xlarge
+Linux r4.8xlarge
+Linux r4.4xlarge
+Linux r4.2xlarge
+Linux r4.xlarge
+Linux r4.large
+Windows r4.16xlarge
+Windows r4.8xlarge
+Windows r4.4xlarge
+Windows r4.2xlarge
+Windows r4.xlarge
+Windows r4.large
+RHEL r4.16xlarge
+RHEL r4.8xlarge
+RHEL r4.4xlarge
+RHEL r4.2xlarge
+RHEL r4.xlarge
+RHEL r4.large
+Linux r5n.metal
+Linux r5n.24xlarge
+Linux r5n.16xlarge
+Linux r5n.12xlarge
+Linux r5n.8xlarge
+Linux r5n.4xlarge
+Linux r5n.2xlarge
+Linux r5n.xlarge
+Linux r5n.large
+Linux r5b.metal
+Linux r5b.24xlarge
+Linux r5b.16xlarge
+Linux r5b.12xlarge
+Linux r5b.8xlarge
+Linux r5b.4xlarge
+Linux r5b.2xlarge
+Linux r5b.xlarge
+Linux r5b.large
+Linux r5a.24xlarge
+Linux r5a.16xlarge
+Linux r5a.12xlarge
+Linux r5a.8xlarge
+Linux r5a.4xlarge
+Linux r5a.2xlarge
+Linux r5a.xlarge
+Linux r5a.large
+Linux r5.metal
+Linux r5.24xlarge
+Linux r5.16xlarge
+Linux r5.12xlarge
+Linux r5.8xlarge
+Linux r5.4xlarge
+Linux r5.2xlarge
+Linux r5.xlarge
+Linux r5.large
+Windows r5n.metal
+Windows r5n.24xlarge
+Windows r5n.16xlarge
+Windows r5n.12xlarge
+Windows r5n.8xlarge
+Windows r5n.4xlarge
+Windows r5n.2xlarge
+Windows r5n.xlarge
+Windows r5n.large
+Windows r5b.metal
+Windows r5b.24xlarge
+Windows r5b.16xlarge
+Windows r5b.12xlarge
+Windows r5b.8xlarge
+Windows r5b.4xlarge
+Windows r5b.2xlarge
+Windows r5b.xlarge
+Windows r5b.large
+Windows r5a.24xlarge
+Windows r5a.16xlarge
+Windows r5a.12xlarge
+Windows r5a.8xlarge
+Windows r5a.4xlarge
+Windows r5a.2xlarge
+Windows r5a.xlarge
+Windows r5a.large
+Windows r5.metal
+Windows r5.24xlarge
+Windows r5.16xlarge
+Windows r5.12xlarge
+Windows r5.8xlarge
+Windows r5.4xlarge
+Windows r5.2xlarge
+Windows r5.xlarge
+Windows r5.large
+RHEL r5n.metal
+RHEL r5n.24xlarge
+RHEL r5n.16xlarge
+RHEL r5n.12xlarge
+RHEL r5n.8xlarge
+RHEL r5n.4xlarge
+RHEL r5n.2xlarge
+RHEL r5n.xlarge
+RHEL r5n.large
+RHEL r5b.metal
+RHEL r5b.24xlarge
+RHEL r5b.16xlarge
+RHEL r5b.12xlarge
+RHEL r5b.8xlarge
+RHEL r5b.4xlarge
+RHEL r5b.2xlarge
+RHEL r5b.xlarge
+RHEL r5b.large
+RHEL r5a.24xlarge
+RHEL r5a.16xlarge
+RHEL r5a.12xlarge
+RHEL r5a.8xlarge
+RHEL r5a.4xlarge
+RHEL r5a.2xlarge
+RHEL r5a.xlarge
+RHEL r5a.large
+RHEL r5.metal
+RHEL r5.24xlarge
+RHEL r5.16xlarge
+RHEL r5.12xlarge
+RHEL r5.8xlarge
+RHEL r5.4xlarge
+RHEL r5.2xlarge
+RHEL r5.xlarge
+RHEL r5.large
+Linux a1.medium
+Linux a1.large
+Linux a1.xlarge
+Linux a1.2xlarge
+Linux a1.4xlarge
+Linux a1.metal
+Windows a1.medium
+Windows a1.large
+Windows a1.xlarge
+Windows a1.2xlarge
+Windows a1.4xlarge
+Windows a1.metal
+RHEL a1.medium
+RHEL a1.large
+RHEL a1.xlarge
+RHEL a1.2xlarge
+RHEL a1.4xlarge
+RHEL a1.metal
+Linux c6gn.16xlarge
+Linux c6gn.12xlarge
+Linux c6gn.8xlarge
+Linux c6gn.4xlarge
+Linux c6gn.2xlarge
+Linux c6gn.xlarge
+Linux c6gn.large
+Linux c6gn.medium
+Linux c6g.metal
+Linux c6g.16xlarge
+Linux c6g.12xlarge
+Linux c6g.8xlarge
+Linux c6g.4xlarge
+Linux c6g.2xlarge
+Linux c6g.xlarge
+Linux c6g.large
+Linux c6g.medium
+Windows c6gn.16xlarge
+Windows c6gn.12xlarge
+Windows c6gn.8xlarge
+Windows c6gn.4xlarge
+Windows c6gn.2xlarge
+Windows c6gn.xlarge
+Windows c6gn.large
+Windows c6gn.medium
+Windows c6g.metal
+Windows c6g.16xlarge
+Windows c6g.12xlarge
+Windows c6g.8xlarge
+Windows c6g.4xlarge
+Windows c6g.2xlarge
+Windows c6g.xlarge
+Windows c6g.large
+Windows c6g.medium
+RHEL c6gn.16xlarge
+RHEL c6gn.12xlarge
+RHEL c6gn.8xlarge
+RHEL c6gn.4xlarge
+RHEL c6gn.2xlarge
+RHEL c6gn.xlarge
+RHEL c6gn.large
+RHEL c6gn.medium
+RHEL c6g.metal
+RHEL c6g.16xlarge
+RHEL c6g.12xlarge
+RHEL c6g.8xlarge
+RHEL c6g.4xlarge
+RHEL c6g.2xlarge
+RHEL c6g.xlarge
+RHEL c6g.large
+RHEL c6g.medium
+Linux c7g.16xlarge
+Linux c7g.12xlarge
+Linux c7g.8xlarge
+Linux c7g.4xlarge
+Linux c7g.2xlarge
+Linux c7g.xlarge
+Linux c7g.large
+Linux c7g.medium
+Windows c7g.16xlarge
+Windows c7g.12xlarge
+Windows c7g.8xlarge
+Windows c7g.4xlarge
+Windows c7g.2xlarge
+Windows c7g.xlarge
+Windows c7g.large
+Windows c7g.medium
+RHEL c7g.16xlarge
+RHEL c7g.12xlarge
+RHEL c7g.8xlarge
+RHEL c7g.4xlarge
+RHEL c7g.2xlarge
+RHEL c7g.xlarge
+RHEL c7g.large
+RHEL c7g.medium
+Linux m6g.medium
+Linux m6g.large
+Linux m6g.xlarge
+Linux m6g.2xlarge
+Linux m6g.4xlarge
+Linux m6g.8xlarge
+Linux m6g.12xlarge
+Linux m6g.16xlarge
+Linux m6g.metal
+Linux m6gd.medium
+Linux m6gd.large
+Linux m6gd.xlarge
+Linux m6gd.2xlarge
+Linux m6gd.4xlarge
+Linux m6gd.8xlarge
+Linux m6gd.12xlarge
+Linux m6gd.16xlarge
+Linux m6gd.metal
+Windows m6g.medium
+Windows m6g.large
+Windows m6g.xlarge
+Windows m6g.2xlarge
+Windows m6g.4xlarge
+Windows m6g.8xlarge
+Windows m6g.12xlarge
+Windows m6g.16xlarge
+Windows m6g.metal
+Windows m6gd.medium
+Windows m6gd.large
+Windows m6gd.xlarge
+Windows m6gd.2xlarge
+Windows m6gd.4xlarge
+Windows m6gd.8xlarge
+Windows m6gd.12xlarge
+Windows m6gd.16xlarge
+Windows m6gd.metal
+RHEL m6g.medium
+RHEL m6g.large
+RHEL m6g.xlarge
+RHEL m6g.2xlarge
+RHEL m6g.4xlarge
+RHEL m6g.8xlarge
+RHEL m6g.12xlarge
+RHEL m6g.16xlarge
+RHEL m6g.metal
+RHEL m6gd.medium
+RHEL m6gd.large
+RHEL m6gd.xlarge
+RHEL m6gd.2xlarge
+RHEL m6gd.4xlarge
+RHEL m6gd.8xlarge
+RHEL m6gd.12xlarge
+RHEL m6gd.16xlarge
+RHEL m6gd.metal
+Linux t4g.nano
+Linux t4g.micro
+Linux t4g.small
+Linux t4g.medium
+Linux t4g.large
+Linux t4g.xlarge
+Linux t4g.2xlarge
+Windows t4g.nano
+Windows t4g.micro
+Windows t4g.small
+Windows t4g.medium
+Windows t4g.large
+Windows t4g.xlarge
+Windows t4g.2xlarge
+RHEL t4g.nano
+RHEL t4g.micro
+RHEL t4g.small
+RHEL t4g.medium
+RHEL t4g.large
+RHEL t4g.xlarge
+RHEL t4g.2xlarge
+Linux r6g.metal
+Linux r6g.16xlarge
+Linux r6g.12xlarge
+Linux r6g.8xlarge
+Linux r6g.4xlarge
+Linux r6g.2xlarge
+Linux r6g.xlarge
+Linux r6g.large
+Linux r6g.medium
+Windows r6g.metal
+Windows r6g.16xlarge
+Windows r6g.12xlarge
+Windows r6g.8xlarge
+Windows r6g.4xlarge
+Windows r6g.2xlarge
+Windows r6g.xlarge
+Windows r6g.large
+Windows r6g.medium
+RHEL r6g.metal
+RHEL r6g.16xlarge
+RHEL r6g.12xlarge
+RHEL r6g.8xlarge
+RHEL r6g.4xlarge
+RHEL r6g.2xlarge
+RHEL r6g.xlarge
+RHEL r6g.large
+RHEL r6g.medium
+a1.medium reserved instance applied
+a1.large reserved instance applied
+a1.xlarge reserved instance applied
+a1.2xlarge reserved instance applied
+a1.4xlarge reserved instance applied
+a1.metal reserved instance applied
+t4g.nano reserved instance applied
+t4g.micro reserved instance applied
+t4g.small reserved instance applied
+t4g.medium reserved instance applied
+t4g.large reserved instance applied
+t4g.xlarge reserved instance applied
+t4g.2xlarge reserved instance applied
+t3.nano reserved instance applied
+t3.micro reserved instance applied
+t3.small reserved instance applied
+t3.medium reserved instance applied
+t3.large reserved instance applied
+t3.xlarge reserved instance applied
+t3.2xlarge reserved instance applied
+t3a.nano reserved instance applied
+t3a.micro reserved instance applied
+t3a.small reserved instance applied
+t3a.medium reserved instance applied
+t3a.large reserved instance applied
+t3a.xlarge reserved instance applied
+t3a.2xlarge reserved instance applied
+t2.nano reserved instance applied
+t2.micro reserved instance applied
+t2.small reserved instance applied
+t2.medium reserved instance applied
+t2.large reserved instance applied
+t2.xlarge reserved instance applied
+t2.2xlarge reserved instance applied
+m6a.large reserved instance applied
+m6a.xlarge reserved instance applied
+m6a.2xlarge reserved instance applied
+m6a.4xlarge reserved instance applied
+m6a.8xlarge reserved instance applied
+m6a.12xlarge reserved instance applied
+m6a.16xlarge reserved instance applied
+m6a.24xlarge reserved instance applied
+m6a.32xlarge reserved instance applied
+m6a.48xlarge reserved instance applied
+m6a.metal reserved instance applied
+m6g.medium reserved instance applied
+m6g.large reserved instance applied
+m6g.xlarge reserved instance applied
+m6g.2xlarge reserved instance applied
+m6g.4xlarge reserved instance applied
+m6g.8xlarge reserved instance applied
+m6g.12xlarge reserved instance applied
+m6g.16xlarge reserved instance applied
+m6g.metal reserved instance applied
+m6gd.medium reserved instance applied
+m6gd.large reserved instance applied
+m6gd.xlarge reserved instance applied
+m6gd.2xlarge reserved instance applied
+m6gd.4xlarge reserved instance applied
+m6gd.8xlarge reserved instance applied
+m6gd.12xlarge reserved instance applied
+m6gd.16xlarge reserved instance applied
+m6gd.metal reserved instance applied
+m6i.large reserved instance applied
+m6i.xlarge reserved instance applied
+m6i.2xlarge reserved instance applied
+m6i.4xlarge reserved instance applied
+m6i.8xlarge reserved instance applied
+m6i.12xlarge reserved instance applied
+m6i.16xlarge reserved instance applied
+m6i.24xlarge reserved instance applied
+m6i.32xlarge reserved instance applied
+m6i.metal reserved instance applied
+r4.16xlarge reserved instance applied
+r4.8xlarge reserved instance applied
+r4.4xlarge reserved instance applied
+r4.2xlarge reserved instance applied
+r4.xlarge reserved instance applied
+r4.large reserved instance applied
+r5n.metal reserved instance applied
+r5n.24xlarge reserved instance applied
+r5n.16xlarge reserved instance applied
+r5n.12xlarge reserved instance applied
+r5n.8xlarge reserved instance applied
+r5n.4xlarge reserved instance applied
+r5n.2xlarge reserved instance applied
+r5n.xlarge reserved instance applied
+r5n.large reserved instance applied
+r5b.metal reserved instance applied
+r5b.24xlarge reserved instance applied
+r5b.16xlarge reserved instance applied
+r5b.12xlarge reserved instance applied
+r5b.8xlarge reserved instance applied
+r5b.4xlarge reserved instance applied
+r5b.2xlarge reserved instance applied
+r5b.xlarge reserved instance applied
+r5b.large reserved instance applied
+r5a.24xlarge reserved instance applied
+r5a.16xlarge reserved instance applied
+r5a.12xlarge reserved instance applied
+r5a.8xlarge reserved instance applied
+r5a.4xlarge reserved instance applied
+r5a.2xlarge reserved instance applied
+r5a.xlarge reserved instance applied
+r5a.large reserved instance applied
+r5.metal reserved instance applied
+r5.24xlarge reserved instance applied
+r5.16xlarge reserved instance applied
+r5.12xlarge reserved instance applied
+r5.8xlarge reserved instance applied
+r5.4xlarge reserved instance applied
+r5.2xlarge reserved instance applied
+r5.xlarge reserved instance applied
+r5.large reserved instance applied
+r6in.32xlarge reserved instance applied
+r6in.24xlarge reserved instance applied
+r6in.16xlarge reserved instance applied
+r6in.12xlarge reserved instance applied
+r6in.8xlarge reserved instance applied
+r6in.4xlarge reserved instance applied
+r6in.2xlarge reserved instance applied
+r6in.xlarge reserved instance applied
+r6in.large reserved instance applied
+r6id.metal reserved instance applied
+r6id.32xlarge reserved instance applied
+r6id.24xlarge reserved instance applied
+r6id.16xlarge reserved instance applied
+r6id.12xlarge reserved instance applied
+r6id.8xlarge reserved instance applied
+r6id.4xlarge reserved instance applied
+r6id.2xlarge reserved instance applied
+r6id.xlarge reserved instance applied
+r6id.large reserved instance applied
+r6i.metal reserved instance applied
+r6i.32xlarge reserved instance applied
+r6i.24xlarge reserved instance applied
+r6i.16xlarge reserved instance applied
+r6i.12xlarge reserved instance applied
+r6i.8xlarge reserved instance applied
+r6i.4xlarge reserved instance applied
+r6i.2xlarge reserved instance applied
+r6i.xlarge reserved instance applied
+r6i.large reserved instance applied
+r6g.metal reserved instance applied
+r6g.16xlarge reserved instance applied
+r6g.12xlarge reserved instance applied
+r6g.8xlarge reserved instance applied
+r6g.4xlarge reserved instance applied
+r6g.2xlarge reserved instance applied
+r6g.xlarge reserved instance applied
+r6g.large reserved instance applied
+r6g.medium reserved instance applied
+r6a.metal reserved instance applied
+r6a.48xlarge reserved instance applied
+r6a.32xlarge reserved instance applied
+r6a.24xlarge reserved instance applied
+r6a.16xlarge reserved instance applied
+r6a.12xlarge reserved instance applied
+r6a.8xlarge reserved instance applied
+r6a.4xlarge reserved instance applied
+r6a.2xlarge reserved instance applied
+r6a.xlarge reserved instance applied
+r6a.large reserved instance applied
+c4.8xlarge reserved instance applied
+c4.4xlarge reserved instance applied
+c4.2xlarge reserved instance applied
+c4.xlarge reserved instance applied
+c4.large reserved instance applied
+c5n.metal reserved instance applied
+c5n.18xlarge reserved instance applied
+c5n.9xlarge reserved instance applied
+c5n.4xlarge reserved instance applied
+c5n.2xlarge reserved instance applied
+c5n.xlarge reserved instance applied
+c5n.large reserved instance applied
+c5a.24xlarge reserved instance applied
+c6in.8xlarge reserved instance applied
+c6in.4xlarge reserved instance applied
+c6in.2xlarge reserved instance applied
+c6in.xlarge reserved instance applied
+c6in.large reserved instance applied
+c6i.metal reserved instance applied
+c6i.32xlarge reserved instance applied
+c6i.24xlarge reserved instance applied
+c6i.16xlarge reserved instance applied
+c6i.12xlarge reserved instance applied
+c6i.8xlarge reserved instance applied
+c6i.4xlarge reserved instance applied
+c6i.2xlarge reserved instance applied
+c6i.xlarge reserved instance applied
+c6i.large reserved instance applied
+c6gn.16xlarge reserved instance applied
+c6gn.12xlarge reserved instance applied
+c6gn.8xlarge reserved instance applied
+c6gn.4xlarge reserved instance applied
+c6gn.2xlarge reserved instance applied
+c6gn.xlarge reserved instance applied
+c6gn.large reserved instance applied
+c6gn.medium reserved instance applied
+c6g.metal reserved instance applied
+c6g.16xlarge reserved instance applied
+c6g.12xlarge reserved instance applied
+c6g.8xlarge reserved instance applied
+c6g.4xlarge reserved instance applied
+c6g.2xlarge reserved instance applied
+c6g.xlarge reserved instance applied
+c6g.large reserved instance applied
+c6g.medium reserved instance applied
+c6a.metal reserved instance applied
+c6a.48xlarge reserved instance applied
+c6a.32xlarge reserved instance applied
+c6a.24xlarge reserved instance applied
+c6a.16xlarge reserved instance applied
+c6a.12xlarge reserved instance applied
+c6a.8xlarge reserved instance applied
+c6a.4xlarge reserved instance applied
+c6a.2xlarge reserved instance applied
+c6a.xlarge reserved instance applied
+c6a.large reserved instance applied
+c7g.16xlarge reserved instance applied
+c7g.12xlarge reserved instance applied
+c7g.8xlarge reserved instance applied
+c7g.4xlarge reserved instance applied
+c7g.2xlarge reserved instance applied
+c7g.xlarge reserved instance applied
+c7g.large reserved instance applied
+c7g.medium reserved instance applied
+m4.16xlarge reserved instance applied
+m4.10xlarge reserved instance applied
+m4.4xlarge reserved instance applied
+m4.2xlarge reserved instance applied
+m4.xlarge reserved instance applied
+m4.large reserved instance applied
+m5zn.metal reserved instance applied
+m5zn.12xlarge reserved instance applied
+m5zn.6xlarge reserved instance applied
+m5zn.3xlarge reserved instance applied
+m5zn.2xlarge reserved instance applied
+m5zn.xlarge reserved instance applied
+m5zn.large reserved instance applied
+m5n.metal reserved instance applied
+m5n.24xlarge reserved instance applied
+m5n.16xlarge reserved instance applied
+m5n.12xlarge reserved instance applied
+m5n.8xlarge reserved instance applied
+m5n.4xlarge reserved instance applied
+m5n.2xlarge reserved instance applied
+m5n.xlarge reserved instance applied
+m5n.large reserved instance applied
+m5a.24xlarge reserved instance applied
+m5a.16xlarge reserved instance applied
+m5a.12xlarge reserved instance applied
+m5a.8xlarge reserved instance applied
+m5a.4xlarge reserved instance applied
+m5a.2xlarge reserved instance applied
+m5a.xlarge reserved instance applied
+m5a.large reserved instance applied
+m5.metal reserved instance applied
+m5.24xlarge reserved instance applied
+m5.16xlarge reserved instance applied
+m5.12xlarge reserved instance applied
+m5.8xlarge reserved instance applied
+m5.4xlarge reserved instance applied
+m5.2xlarge reserved instance applied
+m5.xlarge reserved instance applied
+m5.large reserved instance applied
+m6in.32xlarge reserved instance applied
+m6in.24xlarge reserved instance applied
+m6in.16xlarge reserved instance applied
+m6in.12xlarge reserved instance applied
+m6in.8xlarge reserved instance applied
+m6in.4xlarge reserved instance applied
+m6in.2xlarge reserved instance applied
+m6in.xlarge reserved instance applied
+m6in.large reserved instance applied
+NAT Gateway
+Elastic IP address
+Magnetic provisioned
+snapshot data stored
+gp2
+API Gateway HTTP API
+next 667 million requests
+first 333 million requests
+cache.a1.medium
+cache.a1.large
+cache.a1.xlarge
+cache.a1.2xlarge
+cache.a1.4xlarge
+cache.a1.metal
+cache.t4g.nano
+cache.t4g.micro
+cache.t4g.small
+cache.t4g.medium
+cache.t4g.large
+cache.t4g.xlarge
+cache.t4g.2xlarge
+cache.t3.nano
+cache.t3.micro
+cache.t3.small
+cache.t3.medium
+cache.t3.large
+cache.t3.xlarge
+cache.t3.2xlarge
+cache.t3a.nano
+cache.t3a.micro
+cache.t3a.small
+cache.t3a.medium
+cache.t3a.large
+cache.t3a.xlarge
+cache.t3a.2xlarge
+cache.t2.nano
+cache.t2.micro
+cache.t2.small
+cache.t2.medium
+cache.t2.large
+cache.t2.xlarge
+cache.t2.2xlarge
+cache.m6a.large
+cache.m6a.xlarge
+cache.m6a.2xlarge
+cache.m6a.4xlarge
+cache.m6a.8xlarge
+cache.m6a.12xlarge
+cache.m6a.16xlarge
+cache.m6a.24xlarge
+cache.m6a.32xlarge
+cache.m6a.48xlarge
+cache.m6a.metal
+cache.m6g.medium
+cache.m6g.large
+cache.m6g.xlarge
+cache.m6g.2xlarge
+cache.m6g.4xlarge
+cache.m6g.8xlarge
+cache.m6g.12xlarge
+cache.m6g.16xlarge
+cache.m6g.metal
+cache.m6gd.medium
+cache.m6gd.large
+cache.m6gd.xlarge
+cache.m6gd.2xlarge
+cache.m6gd.4xlarge
+cache.m6gd.8xlarge
+cache.m6gd.12xlarge
+cache.m6gd.16xlarge
+cache.m6gd.metal
+cache.m6i.large
+cache.m6i.xlarge
+cache.m6i.2xlarge
+cache.m6i.4xlarge
+cache.m6i.8xlarge
+cache.m6i.12xlarge
+cache.m6i.16xlarge
+cache.m6i.24xlarge
+cache.m6i.32xlarge
+cache.m6i.metal
+cache.r4.16xlarge
+cache.r4.8xlarge
+cache.r4.4xlarge
+cache.r4.2xlarge
+cache.r4.xlarge
+cache.r4.large
+cache.r5n.metal
+cache.r5n.24xlarge
+cache.r5n.16xlarge
+cache.r5n.12xlarge
+cache.r5n.8xlarge
+cache.r5n.4xlarge
+cache.r5n.2xlarge
+cache.r5n.xlarge
+cache.r5n.large
+cache.r5b.metal
+cache.r5b.24xlarge
+cache.r5b.16xlarge
+cache.r5b.12xlarge
+cache.r5b.8xlarge
+cache.r5b.4xlarge
+cache.r5b.2xlarge
+cache.r5b.xlarge
+cache.r5b.large
+cache.r5a.24xlarge
+cache.r5a.16xlarge
+cache.r5a.12xlarge
+cache.r5a.8xlarge
+cache.r5a.4xlarge
+cache.r5a.2xlarge
+cache.r5a.xlarge
+cache.r5a.large
+cache.r5.metal
+cache.r5.24xlarge
+cache.r5.16xlarge
+cache.r5.12xlarge
+cache.r5.8xlarge
+cache.r5.4xlarge
+cache.r5.2xlarge
+cache.r5.xlarge
+cache.r5.large
+cache.r6in.32xlarge
+cache.r6in.24xlarge
+cache.r6in.16xlarge
+cache.r6in.12xlarge
+cache.r6in.8xlarge
+cache.r6in.4xlarge
+cache.r6in.2xlarge
+cache.r6in.xlarge
+cache.r6in.large
+cache.r6id.metal
+cache.r6id.32xlarge
+cache.r6id.24xlarge
+cache.r6id.16xlarge
+cache.r6id.12xlarge
+cache.r6id.8xlarge
+cache.r6id.4xlarge
+cache.r6id.2xlarge
+cache.r6id.xlarge
+cache.r6id.large
+cache.r6i.metal
+cache.r6i.32xlarge
+cache.r6i.24xlarge
+cache.r6i.16xlarge
+cache.r6i.12xlarge
+cache.r6i.8xlarge
+cache.r6i.4xlarge
+cache.r6i.2xlarge
+cache.r6i.xlarge
+cache.r6i.large
+cache.r6g.metal
+cache.r6g.16xlarge
+cache.r6g.12xlarge
+cache.r6g.8xlarge
+cache.r6g.4xlarge
+cache.r6g.2xlarge
+cache.r6g.xlarge
+cache.r6g.large
+cache.r6g.medium
+cache.r6a.metal
+cache.r6a.48xlarge
+cache.r6a.32xlarge
+cache.r6a.24xlarge
+cache.r6a.16xlarge
+cache.r6a.12xlarge
+cache.r6a.8xlarge
+cache.r6a.4xlarge
+cache.r6a.2xlarge
+cache.r6a.xlarge
+cache.r6a.large
+cache.c4.8xlarge
+cache.c4.4xlarge
+cache.c4.2xlarge
+cache.c4.xlarge
+cache.c4.large
+cache.c5n.metal
+cache.c5n.18xlarge
+cache.c5n.9xlarge
+cache.c5n.4xlarge
+cache.c5n.2xlarge
+cache.c5n.xlarge
+cache.c5n.large
+cache.c5a.24xlarge
+cache.c6in.8xlarge
+cache.c6in.4xlarge
+cache.c6in.2xlarge
+cache.c6in.xlarge
+cache.c6in.large
+cache.c6i.metal
+cache.c6i.32xlarge
+cache.c6i.24xlarge
+cache.c6i.16xlarge
+cache.c6i.12xlarge
+cache.c6i.8xlarge
+cache.c6i.4xlarge
+cache.c6i.2xlarge
+cache.c6i.xlarge
+cache.c6i.large
+cache.c6gn.16xlarge
+cache.c6gn.12xlarge
+cache.c6gn.8xlarge
+cache.c6gn.4xlarge
+cache.c6gn.2xlarge
+cache.c6gn.xlarge
+cache.c6gn.large
+cache.c6gn.medium
+cache.c6g.metal
+cache.c6g.16xlarge
+cache.c6g.12xlarge
+cache.c6g.8xlarge
+cache.c6g.4xlarge
+cache.c6g.2xlarge
+cache.c6g.xlarge
+cache.c6g.large
+cache.c6g.medium
+cache.c6a.metal
+cache.c6a.48xlarge
+cache.c6a.32xlarge
+cache.c6a.24xlarge
+cache.c6a.16xlarge
+cache.c6a.12xlarge
+cache.c6a.8xlarge
+cache.c6a.4xlarge
+cache.c6a.2xlarge
+cache.c6a.xlarge
+cache.c6a.large
+cache.c7g.16xlarge
+cache.c7g.12xlarge
+cache.c7g.8xlarge
+cache.c7g.4xlarge
+cache.c7g.2xlarge
+cache.c7g.xlarge
+cache.c7g.large
+cache.c7g.medium
+cache.m4.16xlarge
+cache.m4.10xlarge
+cache.m4.4xlarge
+cache.m4.2xlarge
+cache.m4.xlarge
+cache.m4.large
+cache.m5zn.metal
+cache.m5zn.12xlarge
+cache.m5zn.6xlarge
+cache.m5zn.3xlarge
+cache.m5zn.2xlarge
+cache.m5zn.xlarge
+cache.m5zn.large
+cache.m5n.metal
+cache.m5n.24xlarge
+cache.m5n.16xlarge
+cache.m5n.12xlarge
+cache.m5n.8xlarge
+cache.m5n.4xlarge
+cache.m5n.2xlarge
+cache.m5n.xlarge
+cache.m5n.large
+cache.m5a.24xlarge
+cache.m5a.16xlarge
+cache.m5a.12xlarge
+cache.m5a.8xlarge
+cache.m5a.4xlarge
+cache.m5a.2xlarge
+cache.m5a.xlarge
+cache.m5a.large
+cache.m5.metal
+cache.m5.24xlarge
+cache.m5.16xlarge
+cache.m5.12xlarge
+cache.m5.8xlarge
+cache.m5.4xlarge
+cache.m5.2xlarge
+cache.m5.xlarge
+cache.m5.large
+cache.m6in.32xlarge
+cache.m6in.24xlarge
+cache.m6in.16xlarge
+cache.m6in.12xlarge
+cache.m6in.8xlarge
+cache.m6in.4xlarge
+cache.m6in.2xlarge
+cache.m6in.xlarge
+cache.m6in.large
+a1.medium.search
+a1.large.search
+a1.xlarge.search
+a1.2xlarge.search
+a1.4xlarge.search
+a1.metal.search
+t4g.nano.search
+t4g.micro.search
+t4g.small.search
+t4g.medium.search
+t4g.large.search
+t4g.xlarge.search
+t4g.2xlarge.search
+t3.nano.search
+t3.micro.search
+t3.small.search
+t3.medium.search
+t3.large.search
+t3.xlarge.search
+t3.2xlarge.search
+t3a.nano.search
+t3a.micro.search
+t3a.small.search
+t3a.medium.search
+t3a.large.search
+t3a.xlarge.search
+t3a.2xlarge.search
+t2.nano.search
+t2.micro.search
+t2.small.search
+t2.medium.search
+t2.large.search
+t2.xlarge.search
+t2.2xlarge.search
+m6a.large.search
+m6a.xlarge.search
+m6a.2xlarge.search
+m6a.4xlarge.search
+m6a.8xlarge.search
+m6a.12xlarge.search
+m6a.16xlarge.search
+m6a.24xlarge.search
+m6a.32xlarge.search
+m6a.48xlarge.search
+m6a.metal.search
+m6g.medium.search
+m6g.large.search
+m6g.xlarge.search
+m6g.2xlarge.search
+m6g.4xlarge.search
+m6g.8xlarge.search
+m6g.12xlarge.search
+m6g.16xlarge.search
+m6g.metal.search
+m6gd.medium.search
+m6gd.large.search
+m6gd.xlarge.search
+m6gd.2xlarge.search
+m6gd.4xlarge.search
+m6gd.8xlarge.search
+m6gd.12xlarge.search
+m6gd.16xlarge.search
+m6gd.metal.search
+m6i.large.search
+m6i.xlarge.search
+m6i.2xlarge.search
+m6i.4xlarge.search
+m6i.8xlarge.search
+m6i.12xlarge.search
+m6i.16xlarge.search
+m6i.24xlarge.search
+m6i.32xlarge.search
+m6i.metal.search
+r4.16xlarge.search
+r4.8xlarge.search
+r4.4xlarge.search
+r4.2xlarge.search
+r4.xlarge.search
+r4.large.search
+r5n.metal.search
+r5n.24xlarge.search
+r5n.16xlarge.search
+r5n.12xlarge.search
+r5n.8xlarge.search
+r5n.4xlarge.search
+r5n.2xlarge.search
+r5n.xlarge.search
+r5n.large.search
+r5b.metal.search
+r5b.24xlarge.search
+r5b.16xlarge.search
+r5b.12xlarge.search
+r5b.8xlarge.search
+r5b.4xlarge.search
+r5b.2xlarge.search
+r5b.xlarge.search
+r5b.large.search
+r5a.24xlarge.search
+r5a.16xlarge.search
+r5a.12xlarge.search
+r5a.8xlarge.search
+r5a.4xlarge.search
+r5a.2xlarge.search
+r5a.xlarge.search
+r5a.large.search
+r5.metal.search
+r5.24xlarge.search
+r5.16xlarge.search
+r5.12xlarge.search
+r5.8xlarge.search
+r5.4xlarge.search
+r5.2xlarge.search
+r5.xlarge.search
+r5.large.search
+r6in.32xlarge.search
+r6in.24xlarge.search
+r6in.16xlarge.search
+r6in.12xlarge.search
+r6in.8xlarge.search
+r6in.4xlarge.search
+r6in.2xlarge.search
+r6in.xlarge.search
+r6in.large.search
+r6id.metal.search
+r6id.32xlarge.search
+r6id.24xlarge.search
+r6id.16xlarge.search
+r6id.12xlarge.search
+r6id.8xlarge.search
+r6id.4xlarge.search
+r6id.2xlarge.search
+r6id.xlarge.search
+r6id.large.search
+r6i.metal.search
+r6i.32xlarge.search
+r6i.24xlarge.search
+r6i.16xlarge.search
+r6i.12xlarge.search
+r6i.8xlarge.search
+r6i.4xlarge.search
+r6i.2xlarge.search
+r6i.xlarge.search
+r6i.large.search
+r6g.metal.search
+r6g.16xlarge.search
+r6g.12xlarge.search
+r6g.8xlarge.search
+r6g.4xlarge.search
+r6g.2xlarge.search
+r6g.xlarge.search
+r6g.large.search
+r6g.medium.search
+r6a.metal.search
+r6a.48xlarge.search
+r6a.32xlarge.search
+r6a.24xlarge.search
+r6a.16xlarge.search
+r6a.12xlarge.search
+r6a.8xlarge.search
+r6a.4xlarge.search
+r6a.2xlarge.search
+r6a.xlarge.search
+r6a.large.search
+c4.8xlarge.search
+c4.4xlarge.search
+c4.2xlarge.search
+c4.xlarge.search
+c4.large.search
+c5n.metal.search
+c5n.18xlarge.search
+c5n.9xlarge.search
+c5n.4xlarge.search
+c5n.2xlarge.search
+c5n.xlarge.search
+c5n.large.search
+c5a.24xlarge.search
+c6in.8xlarge.search
+c6in.4xlarge.search
+c6in.2xlarge.search
+c6in.xlarge.search
+c6in.large.search
+c6i.metal.search
+c6i.32xlarge.search
+c6i.24xlarge.search
+c6i.16xlarge.search
+c6i.12xlarge.search
+c6i.8xlarge.search
+c6i.4xlarge.search
+c6i.2xlarge.search
+c6i.xlarge.search
+c6i.large.search
+c6gn.16xlarge.search
+c6gn.12xlarge.search
+c6gn.8xlarge.search
+c6gn.4xlarge.search
+c6gn.2xlarge.search
+c6gn.xlarge.search
+c6gn.large.search
+c6gn.medium.search
+c6g.metal.search
+c6g.16xlarge.search
+c6g.12xlarge.search
+c6g.8xlarge.search
+c6g.4xlarge.search
+c6g.2xlarge.search
+c6g.xlarge.search
+c6g.large.search
+c6g.medium.search
+c6a.metal.search
+c6a.48xlarge.search
+c6a.32xlarge.search
+c6a.24xlarge.search
+c6a.16xlarge.search
+c6a.12xlarge.search
+c6a.8xlarge.search
+c6a.4xlarge.search
+c6a.2xlarge.search
+c6a.xlarge.search
+c6a.large.search
+c7g.16xlarge.search
+c7g.12xlarge.search
+c7g.8xlarge.search
+c7g.4xlarge.search
+c7g.2xlarge.search
+c7g.xlarge.search
+c7g.large.search
+c7g.medium.search
+m4.16xlarge.search
+m4.10xlarge.search
+m4.4xlarge.search
+m4.2xlarge.search
+m4.xlarge.search
+m4.large.search
+m5zn.metal.search
+m5zn.12xlarge.search
+m5zn.6xlarge.search
+m5zn.3xlarge.search
+m5zn.2xlarge.search
+m5zn.xlarge.search
+m5zn.large.search
+m5n.metal.search
+m5n.24xlarge.search
+m5n.16xlarge.search
+m5n.12xlarge.search
+m5n.8xlarge.search
+m5n.4xlarge.search
+m5n.2xlarge.search
+m5n.xlarge.search
+m5n.large.search
+m5a.24xlarge.search
+m5a.16xlarge.search
+m5a.12xlarge.search
+m5a.8xlarge.search
+m5a.4xlarge.search
+m5a.2xlarge.search
+m5a.xlarge.search
+m5a.large.search
+m5.metal.search
+m5.24xlarge.search
+m5.16xlarge.search
+m5.12xlarge.search
+m5.8xlarge.search
+m5.4xlarge.search
+m5.2xlarge.search
+m5.xlarge.search
+m5.large.search
+m6in.32xlarge.search
+m6in.24xlarge.search
+m6in.16xlarge.search
+m6in.12xlarge.search
+m6in.8xlarge.search
+m6in.4xlarge.search
+m6in.2xlarge.search
+m6in.xlarge.search
+m6in.large.search
+backup storage
+provisioned io1
+db.a1.medium reserved instance applied
+db.a1.large reserved instance applied
+db.a1.xlarge reserved instance applied
+db.a1.2xlarge reserved instance applied
+db.a1.4xlarge reserved instance applied
+db.a1.metal reserved instance applied
+db.t4g.nano reserved instance applied
+db.t4g.micro reserved instance applied
+db.t4g.small reserved instance applied
+db.t4g.medium reserved instance applied
+db.t4g.large reserved instance applied
+db.t4g.xlarge reserved instance applied
+db.t4g.2xlarge reserved instance applied
+db.t3.nano reserved instance applied
+db.t3.micro reserved instance applied
+db.t3.small reserved instance applied
+db.t3.medium reserved instance applied
+db.t3.large reserved instance applied
+db.t3.xlarge reserved instance applied
+db.t3.2xlarge reserved instance applied
+db.t3a.nano reserved instance applied
+db.t3a.micro reserved instance applied
+db.t3a.small reserved instance applied
+db.t3a.medium reserved instance applied
+db.t3a.large reserved instance applied
+db.t3a.xlarge reserved instance applied
+db.t3a.2xlarge reserved instance applied
+db.t2.nano reserved instance applied
+db.t2.micro reserved instance applied
+db.t2.small reserved instance applied
+db.t2.medium reserved instance applied
+db.t2.large reserved instance applied
+db.t2.xlarge reserved instance applied
+db.t2.2xlarge reserved instance applied
+db.m6a.large reserved instance applied
+db.m6a.xlarge reserved instance applied
+db.m6a.2xlarge reserved instance applied
+db.m6a.4xlarge reserved instance applied
+db.m6a.8xlarge reserved instance applied
+db.m6a.12xlarge reserved instance applied
+db.m6a.16xlarge reserved instance applied
+db.m6a.24xlarge reserved instance applied
+db.m6a.32xlarge reserved instance applied
+db.m6a.48xlarge reserved instance applied
+db.m6a.metal reserved instance applied
+db.m6g.medium reserved instance applied
+db.m6g.large reserved instance applied
+db.m6g.xlarge reserved instance applied
+db.m6g.2xlarge reserved instance applied
+db.m6g.4xlarge reserved instance applied
+db.m6g.8xlarge reserved instance applied
+db.m6g.12xlarge reserved instance applied
+db.m6g.16xlarge reserved instance applied
+db.m6g.metal reserved instance applied
+db.m6gd.medium reserved instance applied
+db.m6gd.large reserved instance applied
+db.m6gd.xlarge reserved instance applied
+db.m6gd.2xlarge reserved instance applied
+db.m6gd.4xlarge reserved instance applied
+db.m6gd.8xlarge reserved instance applied
+db.m6gd.12xlarge reserved instance applied
+db.m6gd.16xlarge reserved instance applied
+db.m6gd.metal reserved instance applied
+db.m6i.large reserved instance applied
+db.m6i.xlarge reserved instance applied
+db.m6i.2xlarge reserved instance applied
+db.m6i.4xlarge reserved instance applied
+db.m6i.8xlarge reserved instance applied
+db.m6i.12xlarge reserved instance applied
+db.m6i.16xlarge reserved instance applied
+db.m6i.24xlarge reserved instance applied
+db.m6i.32xlarge reserved instance applied
+db.m6i.metal reserved instance applied
+db.r4.16xlarge reserved instance applied
+db.r4.8xlarge reserved instance applied
+db.r4.4xlarge reserved instance applied
+db.r4.2xlarge reserved instance applied
+db.r4.xlarge reserved instance applied
+db.r4.large reserved instance applied
+db.r5n.metal reserved instance applied
+db.r5n.24xlarge reserved instance applied
+db.r5n.16xlarge reserved instance applied
+db.r5n.12xlarge reserved instance applied
+db.r5n.8xlarge reserved instance applied
+db.r5n.4xlarge reserved instance applied
+db.r5n.2xlarge reserved instance applied
+db.r5n.xlarge reserved instance applied
+db.r5n.large reserved instance applied
+db.r5b.metal reserved instance applied
+db.r5b.24xlarge reserved instance applied
+db.r5b.16xlarge reserved instance applied
+db.r5b.12xlarge reserved instance applied
+db.r5b.8xlarge reserved instance applied
+db.r5b.4xlarge reserved instance applied
+db.r5b.2xlarge reserved instance applied
+db.r5b.xlarge reserved instance applied
+db.r5b.large reserved instance applied
+db.r5a.24xlarge reserved instance applied
+db.r5a.16xlarge reserved instance applied
+db.r5a.12xlarge reserved instance applied
+db.r5a.8xlarge reserved instance applied
+db.r5a.4xlarge reserved instance applied
+db.r5a.2xlarge reserved instance applied
+db.r5a.xlarge reserved instance applied
+db.r5a.large reserved instance applied
+db.r5.metal reserved instance applied
+db.r5.24xlarge reserved instance applied
+db.r5.16xlarge reserved instance applied
+db.r5.12xlarge reserved instance applied
+db.r5.8xlarge reserved instance applied
+db.r5.4xlarge reserved instance applied
+db.r5.2xlarge reserved instance applied
+db.r5.xlarge reserved instance applied
+db.r5.large reserved instance applied
+db.r6in.32xlarge reserved instance applied
+db.r6in.24xlarge reserved instance applied
+db.r6in.16xlarge reserved instance applied
+db.r6in.12xlarge reserved instance applied
+db.r6in.8xlarge reserved instance applied
+db.r6in.4xlarge reserved instance applied
+db.r6in.2xlarge reserved instance applied
+db.r6in.xlarge reserved instance applied
+db.r6in.large reserved instance applied
+db.r6id.metal reserved instance applied
+db.r6id.32xlarge reserved instance applied
+db.r6id.24xlarge reserved instance applied
+db.r6id.16xlarge reserved instance applied
+db.r6id.12xlarge reserved instance applied
+db.r6id.8xlarge reserved instance applied
+db.r6id.4xlarge reserved instance applied
+db.r6id.2xlarge reserved instance applied
+db.r6id.xlarge reserved instance applied
+db.r6id.large reserved instance applied
+db.r6i.metal reserved instance applied
+db.r6i.32xlarge reserved instance applied
+db.r6i.24xlarge reserved instance applied
+db.r6i.16xlarge reserved instance applied
+db.r6i.12xlarge reserved instance applied
+db.r6i.8xlarge reserved instance applied
+db.r6i.4xlarge reserved instance applied
+db.r6i.2xlarge reserved instance applied
+db.r6i.xlarge reserved instance applied
+db.r6i.large reserved instance applied
+db.r6g.metal reserved instance applied
+db.r6g.16xlarge reserved instance applied
+db.r6g.12xlarge reserved instance applied
+db.r6g.8xlarge reserved instance applied
+db.r6g.4xlarge reserved instance applied
+db.r6g.2xlarge reserved instance applied
+db.r6g.xlarge reserved instance applied
+db.r6g.large reserved instance applied
+db.r6g.medium reserved instance applied
+db.r6a.metal reserved instance applied
+db.r6a.48xlarge reserved instance applied
+db.r6a.32xlarge reserved instance applied
+db.r6a.24xlarge reserved instance applied
+db.r6a.16xlarge reserved instance applied
+db.r6a.12xlarge reserved instance applied
+db.r6a.8xlarge reserved instance applied
+db.r6a.4xlarge reserved instance applied
+db.r6a.2xlarge reserved instance applied
+db.r6a.xlarge reserved instance applied
+db.r6a.large reserved instance applied
+db.c4.8xlarge reserved instance applied
+db.c4.4xlarge reserved instance applied
+db.c4.2xlarge reserved instance applied
+db.c4.xlarge reserved instance applied
+db.c4.large reserved instance applied
+db.c5n.metal reserved instance applied
+db.c5n.18xlarge reserved instance applied
+db.c5n.9xlarge reserved instance applied
+db.c5n.4xlarge reserved instance applied
+db.c5n.2xlarge reserved instance applied
+db.c5n.xlarge reserved instance applied
+db.c5n.large reserved instance applied
+db.c5a.24xlarge reserved instance applied
+db.c6in.8xlarge reserved instance applied
+db.c6in.4xlarge reserved instance applied
+db.c6in.2xlarge reserved instance applied
+db.c6in.xlarge reserved instance applied
+db.c6in.large reserved instance applied
+db.c6i.metal reserved instance applied
+db.c6i.32xlarge reserved instance applied
+db.c6i.24xlarge reserved instance applied
+db.c6i.16xlarge reserved instance applied
+db.c6i.12xlarge reserved instance applied
+db.c6i.8xlarge reserved instance applied
+db.c6i.4xlarge reserved instance applied
+db.c6i.2xlarge reserved instance applied
+db.c6i.xlarge reserved instance applied
+db.c6i.large reserved instance applied
+db.c6gn.16xlarge reserved instance applied
+db.c6gn.12xlarge reserved instance applied
+db.c6gn.8xlarge reserved instance applied
+db.c6gn.4xlarge reserved instance applied
+db.c6gn.2xlarge reserved instance applied
+db.c6gn.xlarge reserved instance applied
+db.c6gn.large reserved instance applied
+db.c6gn.medium reserved instance applied
+db.c6g.metal reserved instance applied
+db.c6g.16xlarge reserved instance applied
+db.c6g.12xlarge reserved instance applied
+db.c6g.8xlarge reserved instance applied
+db.c6g.4xlarge reserved instance applied
+db.c6g.2xlarge reserved instance applied
+db.c6g.xlarge reserved instance applied
+db.c6g.large reserved instance applied
+db.c6g.medium reserved instance applied
+db.c6a.metal reserved instance applied
+db.c6a.48xlarge reserved instance applied
+db.c6a.32xlarge reserved instance applied
+db.c6a.24xlarge reserved instance applied
+db.c6a.16xlarge reserved instance applied
+db.c6a.12xlarge reserved instance applied
+db.c6a.8xlarge reserved instance applied
+db.c6a.4xlarge reserved instance applied
+db.c6a.2xlarge reserved instance applied
+db.c6a.xlarge reserved instance applied
+db.c6a.large reserved instance applied
+db.c7g.16xlarge reserved instance applied
+db.c7g.12xlarge reserved instance applied
+db.c7g.8xlarge reserved instance applied
+db.c7g.4xlarge reserved instance applied
+db.c7g.2xlarge reserved instance applied
+db.c7g.xlarge reserved instance applied
+db.c7g.large reserved instance applied
+db.c7g.medium reserved instance applied
+db.m4.16xlarge reserved instance applied
+db.m4.10xlarge reserved instance applied
+db.m4.4xlarge reserved instance applied
+db.m4.2xlarge reserved instance applied
+db.m4.xlarge reserved instance applied
+db.m4.large reserved instance applied
+db.m5zn.metal reserved instance applied
+db.m5zn.12xlarge reserved instance applied
+db.m5zn.6xlarge reserved instance applied
+db.m5zn.3xlarge reserved instance applied
+db.m5zn.2xlarge reserved instance applied
+db.m5zn.xlarge reserved instance applied
+db.m5zn.large reserved instance applied
+db.m5n.metal reserved instance applied
+db.m5n.24xlarge reserved instance applied
+db.m5n.16xlarge reserved instance applied
+db.m5n.12xlarge reserved instance applied
+db.m5n.8xlarge reserved instance applied
+db.m5n.4xlarge reserved instance applied
+db.m5n.2xlarge reserved instance applied
+db.m5n.xlarge reserved instance applied
+db.m5n.large reserved instance applied
+db.m5a.24xlarge reserved instance applied
+db.m5a.16xlarge reserved instance applied
+db.m5a.12xlarge reserved instance applied
+db.m5a.8xlarge reserved instance applied
+db.m5a.4xlarge reserved instance applied
+db.m5a.2xlarge reserved instance applied
+db.m5a.xlarge reserved instance applied
+db.m5a.large reserved instance applied
+db.m5.metal reserved instance applied
+db.m5.24xlarge reserved instance applied
+db.m5.16xlarge reserved instance applied
+db.m5.12xlarge reserved instance applied
+db.m5.8xlarge reserved instance applied
+db.m5.4xlarge reserved instance applied
+db.m5.2xlarge reserved instance applied
+db.m5.xlarge reserved instance applied
+db.m5.large reserved instance applied
+db.m6in.32xlarge reserved instance applied
+db.m6in.24xlarge reserved instance applied
+db.m6in.16xlarge reserved instance applied
+db.m6in.12xlarge reserved instance applied
+db.m6in.8xlarge reserved instance applied
+db.m6in.4xlarge reserved instance applied
+db.m6in.2xlarge reserved instance applied
+db.m6in.xlarge reserved instance applied
+db.m6in.large reserved instance applied
+db.a1.medium
+db.a1.large
+db.a1.xlarge
+db.a1.2xlarge
+db.a1.4xlarge
+db.a1.metal
+db.t4g.nano
+db.t4g.micro
+db.t4g.small
+db.t4g.medium
+db.t4g.large
+db.t4g.xlarge
+db.t4g.2xlarge
+db.t3.nano
+db.t3.micro
+db.t3.small
+db.t3.medium
+db.t3.large
+db.t3.xlarge
+db.t3.2xlarge
+db.t3a.nano
+db.t3a.micro
+db.t3a.small
+db.t3a.medium
+db.t3a.large
+db.t3a.xlarge
+db.t3a.2xlarge
+db.t2.nano
+db.t2.micro
+db.t2.small
+db.t2.medium
+db.t2.large
+db.t2.xlarge
+db.t2.2xlarge
+db.m6a.large
+db.m6a.xlarge
+db.m6a.2xlarge
+db.m6a.4xlarge
+db.m6a.8xlarge
+db.m6a.12xlarge
+db.m6a.16xlarge
+db.m6a.24xlarge
+db.m6a.32xlarge
+db.m6a.48xlarge
+db.m6a.metal
+db.m6g.medium
+db.m6g.large
+db.m6g.xlarge
+db.m6g.2xlarge
+db.m6g.4xlarge
+db.m6g.8xlarge
+db.m6g.12xlarge
+db.m6g.16xlarge
+db.m6g.metal
+db.m6gd.medium
+db.m6gd.large
+db.m6gd.xlarge
+db.m6gd.2xlarge
+db.m6gd.4xlarge
+db.m6gd.8xlarge
+db.m6gd.12xlarge
+db.m6gd.16xlarge
+db.m6gd.metal
+db.m6i.large
+db.m6i.xlarge
+db.m6i.2xlarge
+db.m6i.4xlarge
+db.m6i.8xlarge
+db.m6i.12xlarge
+db.m6i.16xlarge
+db.m6i.24xlarge
+db.m6i.32xlarge
+db.m6i.metal
+db.r4.16xlarge
+db.r4.8xlarge
+db.r4.4xlarge
+db.r4.2xlarge
+db.r4.xlarge
+db.r4.large
+db.r5n.metal
+db.r5n.24xlarge
+db.r5n.16xlarge
+db.r5n.12xlarge
+db.r5n.8xlarge
+db.r5n.4xlarge
+db.r5n.2xlarge
+db.r5n.xlarge
+db.r5n.large
+db.r5b.metal
+db.r5b.24xlarge
+db.r5b.16xlarge
+db.r5b.12xlarge
+db.r5b.8xlarge
+db.r5b.4xlarge
+db.r5b.2xlarge
+db.r5b.xlarge
+db.r5b.large
+db.r5a.24xlarge
+db.r5a.16xlarge
+db.r5a.12xlarge
+db.r5a.8xlarge
+db.r5a.4xlarge
+db.r5a.2xlarge
+db.r5a.xlarge
+db.r5a.large
+db.r5.metal
+db.r5.24xlarge
+db.r5.16xlarge
+db.r5.12xlarge
+db.r5.8xlarge
+db.r5.4xlarge
+db.r5.2xlarge
+db.r5.xlarge
+db.r5.large
+db.r6in.32xlarge
+db.r6in.24xlarge
+db.r6in.16xlarge
+db.r6in.12xlarge
+db.r6in.8xlarge
+db.r6in.4xlarge
+db.r6in.2xlarge
+db.r6in.xlarge
+db.r6in.large
+db.r6id.metal
+db.r6id.32xlarge
+db.r6id.24xlarge
+db.r6id.16xlarge
+db.r6id.12xlarge
+db.r6id.8xlarge
+db.r6id.4xlarge
+db.r6id.2xlarge
+db.r6id.xlarge
+db.r6id.large
+db.r6i.metal
+db.r6i.32xlarge
+db.r6i.24xlarge
+db.r6i.16xlarge
+db.r6i.12xlarge
+db.r6i.8xlarge
+db.r6i.4xlarge
+db.r6i.2xlarge
+db.r6i.xlarge
+db.r6i.large
+db.r6g.metal
+db.r6g.16xlarge
+db.r6g.12xlarge
+db.r6g.8xlarge
+db.r6g.4xlarge
+db.r6g.2xlarge
+db.r6g.xlarge
+db.r6g.large
+db.r6g.medium
+db.r6a.metal
+db.r6a.48xlarge
+db.r6a.32xlarge
+db.r6a.24xlarge
+db.r6a.16xlarge
+db.r6a.12xlarge
+db.r6a.8xlarge
+db.r6a.4xlarge
+db.r6a.2xlarge
+db.r6a.xlarge
+db.r6a.large
+db.c4.8xlarge
+db.c4.4xlarge
+db.c4.2xlarge
+db.c4.xlarge
+db.c4.large
+db.c5n.metal
+db.c5n.18xlarge
+db.c5n.9xlarge
+db.c5n.4xlarge
+db.c5n.2xlarge
+db.c5n.xlarge
+db.c5n.large
+db.c5a.24xlarge
+db.c6in.8xlarge
+db.c6in.4xlarge
+db.c6in.2xlarge
+db.c6in.xlarge
+db.c6in.large
+db.c6i.metal
+db.c6i.32xlarge
+db.c6i.24xlarge
+db.c6i.16xlarge
+db.c6i.12xlarge
+db.c6i.8xlarge
+db.c6i.4xlarge
+db.c6i.2xlarge
+db.c6i.xlarge
+db.c6i.large
+db.c6gn.16xlarge
+db.c6gn.12xlarge
+db.c6gn.8xlarge
+db.c6gn.4xlarge
+db.c6gn.2xlarge
+db.c6gn.xlarge
+db.c6gn.large
+db.c6gn.medium
+db.c6g.metal
+db.c6g.16xlarge
+db.c6g.12xlarge
+db.c6g.8xlarge
+db.c6g.4xlarge
+db.c6g.2xlarge
+db.c6g.xlarge
+db.c6g.large
+db.c6g.medium
+db.c6a.metal
+db.c6a.48xlarge
+db.c6a.32xlarge
+db.c6a.24xlarge
+db.c6a.16xlarge
+db.c6a.12xlarge
+db.c6a.8xlarge
+db.c6a.4xlarge
+db.c6a.2xlarge
+db.c6a.xlarge
+db.c6a.large
+db.c7g.16xlarge
+db.c7g.12xlarge
+db.c7g.8xlarge
+db.c7g.4xlarge
+db.c7g.2xlarge
+db.c7g.xlarge
+db.c7g.large
+db.c7g.medium
+db.m4.16xlarge
+db.m4.10xlarge
+db.m4.4xlarge
+db.m4.2xlarge
+db.m4.xlarge
+db.m4.large
+db.m5zn.metal
+db.m5zn.12xlarge
+db.m5zn.6xlarge
+db.m5zn.3xlarge
+db.m5zn.2xlarge
+db.m5zn.xlarge
+db.m5zn.large
+db.m5n.metal
+db.m5n.24xlarge
+db.m5n.16xlarge
+db.m5n.12xlarge
+db.m5n.8xlarge
+db.m5n.4xlarge
+db.m5n.2xlarge
+db.m5n.xlarge
+db.m5n.large
+db.m5a.24xlarge
+db.m5a.16xlarge
+db.m5a.12xlarge
+db.m5a.8xlarge
+db.m5a.4xlarge
+db.m5a.2xlarge
+db.m5a.xlarge
+db.m5a.large
+db.m5.metal
+db.m5.24xlarge
+db.m5.16xlarge
+db.m5.12xlarge
+db.m5.8xlarge
+db.m5.4xlarge
+db.m5.2xlarge
+db.m5.xlarge
+db.m5.large
+db.m6in.32xlarge
+db.m6in.24xlarge
+db.m6in.16xlarge
+db.m6in.12xlarge
+db.m6in.8xlarge
+db.m6in.4xlarge
+db.m6in.2xlarge
+db.m6in.xlarge
+db.m6in.large
+Amazon SQS
+GET and all other requests
+or LIST requests
+Amazon Glacier
+month of storage used
+log storage
+log data ingested
+Data Transfer to
+data transfer out
+data transfer to
+AWS-Out-Bytes
+Data transfer to
+between
+data transfer in
+data transfer from 
+Data transfer from 
+AWS-In-Bytes
+per GB for CAN1-DataTransfer-AZ-Out
+Data Transfer from
+KMS key version
+per 10000 KMS requests
+KMS requests
+a1.medium
+a1.large
+a1.xlarge
+a1.2xlarge
+a1.4xlarge
+a1.metal
+t4g.nano
+t4g.micro
+t4g.small
+t4g.medium
+t4g.large
+t4g.xlarge
+t4g.2xlarge
+t3.nano
+t3.micro
+t3.small
+t3.medium
+t3.large
+t3.xlarge
+t3.2xlarge
+t3a.nano
+t3a.micro
+t3a.small
+t3a.medium
+t3a.large
+t3a.xlarge
+t3a.2xlarge
+t2.nano
+t2.micro
+t2.small
+t2.medium
+t2.large
+t2.xlarge
+t2.2xlarge
+m6a.large
+m6a.xlarge
+m6a.2xlarge
+m6a.4xlarge
+m6a.8xlarge
+m6a.12xlarge
+m6a.16xlarge
+m6a.24xlarge
+m6a.32xlarge
+m6a.48xlarge
+m6a.metal
+m6g.medium
+m6g.large
+m6g.xlarge
+m6g.2xlarge
+m6g.4xlarge
+m6g.8xlarge
+m6g.12xlarge
+m6g.16xlarge
+m6g.metal
+m6gd.medium
+m6gd.large
+m6gd.xlarge
+m6gd.2xlarge
+m6gd.4xlarge
+m6gd.8xlarge
+m6gd.12xlarge
+m6gd.16xlarge
+m6gd.metal
+m6i.large
+m6i.xlarge
+m6i.2xlarge
+m6i.4xlarge
+m6i.8xlarge
+m6i.12xlarge
+m6i.16xlarge
+m6i.24xlarge
+m6i.32xlarge
+m6i.metal
+r4.16xlarge
+r4.8xlarge
+r4.4xlarge
+r4.2xlarge
+r4.xlarge
+r4.large
+r5n.metal
+r5n.24xlarge
+r5n.16xlarge
+r5n.12xlarge
+r5n.8xlarge
+r5n.4xlarge
+r5n.2xlarge
+r5n.xlarge
+r5n.large
+r5b.metal
+r5b.24xlarge
+r5b.16xlarge
+r5b.12xlarge
+r5b.8xlarge
+r5b.4xlarge
+r5b.2xlarge
+r5b.xlarge
+r5b.large
+r5a.24xlarge
+r5a.16xlarge
+r5a.12xlarge
+r5a.8xlarge
+r5a.4xlarge
+r5a.2xlarge
+r5a.xlarge
+r5a.large
+r5.metal
+r5.24xlarge
+r5.16xlarge
+r5.12xlarge
+r5.8xlarge
+r5.4xlarge
+r5.2xlarge
+r5.xlarge
+r5.large
+r6in.32xlarge
+r6in.24xlarge
+r6in.16xlarge
+r6in.12xlarge
+r6in.8xlarge
+r6in.4xlarge
+r6in.2xlarge
+r6in.xlarge
+r6in.large
+r6id.metal
+r6id.32xlarge
+r6id.24xlarge
+r6id.16xlarge
+r6id.12xlarge
+r6id.8xlarge
+r6id.4xlarge
+r6id.2xlarge
+r6id.xlarge
+r6id.large
+r6i.metal
+r6i.32xlarge
+r6i.24xlarge
+r6i.16xlarge
+r6i.12xlarge
+r6i.8xlarge
+r6i.4xlarge
+r6i.2xlarge
+r6i.xlarge
+r6i.large
+r6g.metal
+r6g.16xlarge
+r6g.12xlarge
+r6g.8xlarge
+r6g.4xlarge
+r6g.2xlarge
+r6g.xlarge
+r6g.large
+r6g.medium
+r6a.metal
+r6a.48xlarge
+r6a.32xlarge
+r6a.24xlarge
+r6a.16xlarge
+r6a.12xlarge
+r6a.8xlarge
+r6a.4xlarge
+r6a.2xlarge
+r6a.xlarge
+r6a.large
+c4.8xlarge
+c4.4xlarge
+c4.2xlarge
+c4.xlarge
+c4.large
+c5n.metal
+c5n.18xlarge
+c5n.9xlarge
+c5n.4xlarge
+c5n.2xlarge
+c5n.xlarge
+c5n.large
+c5a.24xlarge
+c6in.8xlarge
+c6in.4xlarge
+c6in.2xlarge
+c6in.xlarge
+c6in.large
+c6i.metal
+c6i.32xlarge
+c6i.24xlarge
+c6i.16xlarge
+c6i.12xlarge
+c6i.8xlarge
+c6i.4xlarge
+c6i.2xlarge
+c6i.xlarge
+c6i.large
+c6gn.16xlarge
+c6gn.12xlarge
+c6gn.8xlarge
+c6gn.4xlarge
+c6gn.2xlarge
+c6gn.xlarge
+c6gn.large
+c6gn.medium
+c6g.metal
+c6g.16xlarge
+c6g.12xlarge
+c6g.8xlarge
+c6g.4xlarge
+c6g.2xlarge
+c6g.xlarge
+c6g.large
+c6g.medium
+c6a.metal
+c6a.48xlarge
+c6a.32xlarge
+c6a.24xlarge
+c6a.16xlarge
+c6a.12xlarge
+c6a.8xlarge
+c6a.4xlarge
+c6a.2xlarge
+c6a.xlarge
+c6a.large
+c7g.16xlarge
+c7g.12xlarge
+c7g.8xlarge
+c7g.4xlarge
+c7g.2xlarge
+c7g.xlarge
+c7g.large
+c7g.medium
+m4.16xlarge
+m4.10xlarge
+m4.4xlarge
+m4.2xlarge
+m4.xlarge
+m4.large
+m5zn.metal
+m5zn.12xlarge
+m5zn.6xlarge
+m5zn.3xlarge
+m5zn.2xlarge
+m5zn.xlarge
+m5zn.large
+m5n.metal
+m5n.24xlarge
+m5n.16xlarge
+m5n.12xlarge
+m5n.8xlarge
+m5n.4xlarge
+m5n.2xlarge
+m5n.xlarge
+m5n.large
+m5a.24xlarge
+m5a.16xlarge
+m5a.12xlarge
+m5a.8xlarge
+m5a.4xlarge
+m5a.2xlarge
+m5a.xlarge
+m5a.large
+m5.metal
+m5.24xlarge
+m5.16xlarge
+m5.12xlarge
+m5.8xlarge
+m5.4xlarge
+m5.2xlarge
+m5.xlarge
+m5.large
+m6in.32xlarge
+m6in.24xlarge
+m6in.16xlarge
+m6in.12xlarge
+m6in.8xlarge
+m6in.4xlarge
+m6in.2xlarge
+m6in.xlarge
+m6in.large
+gp3
+Linux c5.large
+Linux c5.xlarge
+Linux c5.2xlarge
+Linux c5.4xlarge
+Linux c5.9xlarge
+Linux c5.12xlarge
+Linux c5.18xlarge
+Linux c5.24xlarge
+Linux c5.metal
+Windows c5.large
+Windows c5.xlarge
+Windows c5.2xlarge
+Windows c5.4xlarge
+Windows c5.9xlarge
+Windows c5.12xlarge
+Windows c5.18xlarge
+Windows c5.24xlarge
+Windows c5.metal
+RHEL c5.large
+RHEL c5.xlarge
+RHEL c5.2xlarge
+RHEL c5.4xlarge
+RHEL c5.9xlarge
+RHEL c5.12xlarge
+RHEL c5.18xlarge
+RHEL c5.24xlarge
+RHEL c5.metal
+c5.large
+c5.xlarge
+c5.2xlarge
+c5.4xlarge
+c5.9xlarge
+c5.12xlarge
+c5.18xlarge
+c5.24xlarge
+c5.metal
+c5.large reserved instance applied
+c5.xlarge reserved instance applied
+c5.2xlarge reserved instance applied
+c5.4xlarge reserved instance applied
+c5.9xlarge reserved instance applied
+c5.12xlarge reserved instance applied
+c5.18xlarge reserved instance applied
+c5.24xlarge reserved instance applied
+c5.metal reserved instance applied
+cache.c5.large
+cache.c5.xlarge
+cache.c5.2xlarge
+cache.c5.4xlarge
+cache.c5.9xlarge
+cache.c5.12xlarge
+cache.c5.18xlarge
+cache.c5.24xlarge
+cache.c5.metal
+c5.large.search
+c5.xlarge.search
+c5.2xlarge.search
+c5.4xlarge.search
+c5.9xlarge.search
+c5.12xlarge.search
+c5.18xlarge.search
+c5.24xlarge.search
+c5.metal.search
+db.c5.large
+db.c5.xlarge
+db.c5.2xlarge
+db.c5.4xlarge
+db.c5.9xlarge
+db.c5.12xlarge
+db.c5.18xlarge
+db.c5.24xlarge
+db.c5.metal
+db.c5.large reserved instance applied
+db.c5.xlarge reserved instance applied
+db.c5.2xlarge reserved instance applied
+db.c5.4xlarge reserved instance applied
+db.c5.9xlarge reserved instance applied
+db.c5.12xlarge reserved instance applied
+db.c5.18xlarge reserved instance applied
+db.c5.24xlarge reserved instance applied
+db.c5.metal reserved instance applied
+Linux z1d.large
+Linux z1d.xlarge
+Linux z1d.2xlarge
+Linux z1d.3xlarge
+Linux z1d.6xlarge
+Linux z1d.12xlarge
+Linux z1d.metal
+Windows z1d.large
+Windows z1d.xlarge
+Windows z1d.2xlarge
+Windows z1d.3xlarge
+Windows z1d.6xlarge
+Windows z1d.12xlarge
+Windows z1d.metal
+RHEL z1d.large
+RHEL z1d.xlarge
+RHEL z1d.2xlarge
+RHEL z1d.3xlarge
+RHEL z1d.6xlarge
+RHEL z1d.12xlarge
+RHEL z1d.metal
+z1d.large
+z1d.xlarge
+z1d.2xlarge
+z1d.3xlarge
+z1d.6xlarge
+z1d.12xlarge
+z1d.metal
+z1d.large reserved instance applied
+z1d.xlarge reserved instance applied
+z1d.2xlarge reserved instance applied
+z1d.3xlarge reserved instance applied
+z1d.6xlarge reserved instance applied
+z1d.12xlarge reserved instance applied
+z1d.metal reserved instance applied
+cache.z1d.large
+cache.z1d.xlarge
+cache.z1d.2xlarge
+cache.z1d.3xlarge
+cache.z1d.6xlarge
+cache.z1d.12xlarge
+cache.z1d.metal
+z1d.large.search
+z1d.xlarge.search
+z1d.2xlarge.search
+z1d.3xlarge.search
+z1d.6xlarge.search
+z1d.12xlarge.search
+z1d.metal.search
+db.z1d.large
+db.z1d.xlarge
+db.z1d.2xlarge
+db.z1d.3xlarge
+db.z1d.6xlarge
+db.z1d.12xlarge
+db.z1d.metal
+db.z1d.large reserved instance applied
+db.z1d.xlarge reserved instance applied
+db.z1d.2xlarge reserved instance applied
+db.z1d.3xlarge reserved instance applied
+db.z1d.6xlarge reserved instance applied
+db.z1d.12xlarge reserved instance applied
+db.z1d.metal reserved instance applied
+Linux c5d.large
+Linux c5d.xlarge
+Linux c5d.2xlarge
+Linux c5d.4xlarge
+Linux c5d.9xlarge
+Linux c5d.12xlarge
+Linux c5d.18xlarge
+Linux c5d.24xlarge
+Linux c5d.metal
+Windows c5d.large
+Windows c5d.xlarge
+Windows c5d.2xlarge
+Windows c5d.4xlarge
+Windows c5d.9xlarge
+Windows c5d.12xlarge
+Windows c5d.18xlarge
+Windows c5d.24xlarge
+Windows c5d.metal
+RHEL c5d.large
+RHEL c5d.xlarge
+RHEL c5d.2xlarge
+RHEL c5d.4xlarge
+RHEL c5d.9xlarge
+RHEL c5d.12xlarge
+RHEL c5d.18xlarge
+RHEL c5d.24xlarge
+RHEL c5d.metal
+c5d.large
+c5d.xlarge
+c5d.2xlarge
+c5d.4xlarge
+c5d.9xlarge
+c5d.12xlarge
+c5d.18xlarge
+c5d.24xlarge
+c5d.metal
+c5d.large reserved instance applied
+c5d.xlarge reserved instance applied
+c5d.2xlarge reserved instance applied
+c5d.4xlarge reserved instance applied
+c5d.9xlarge reserved instance applied
+c5d.12xlarge reserved instance applied
+c5d.18xlarge reserved instance applied
+c5d.24xlarge reserved instance applied
+c5d.metal reserved instance applied
+cache.c5d.large
+cache.c5d.xlarge
+cache.c5d.2xlarge
+cache.c5d.4xlarge
+cache.c5d.9xlarge
+cache.c5d.12xlarge
+cache.c5d.18xlarge
+cache.c5d.24xlarge
+cache.c5d.metal
+c5d.large.search
+c5d.xlarge.search
+c5d.2xlarge.search
+c5d.4xlarge.search
+c5d.9xlarge.search
+c5d.12xlarge.search
+c5d.18xlarge.search
+c5d.24xlarge.search
+c5d.metal.search
+db.c5d.large
+db.c5d.xlarge
+db.c5d.2xlarge
+db.c5d.4xlarge
+db.c5d.9xlarge
+db.c5d.12xlarge
+db.c5d.18xlarge
+db.c5d.24xlarge
+db.c5d.metal
+db.c5d.large reserved instance applied
+db.c5d.xlarge reserved instance applied
+db.c5d.2xlarge reserved instance applied
+db.c5d.4xlarge reserved instance applied
+db.c5d.9xlarge reserved instance applied
+db.c5d.12xlarge reserved instance applied
+db.c5d.18xlarge reserved instance applied
+db.c5d.24xlarge reserved instance applied
+db.c5d.metal reserved instance applied
+Linux r5d.large
+Linux r5d.xlarge
+Linux r5d.2xlarge
+Linux r5d.4xlarge
+Linux r5d.8xlarge
+Linux r5d.12xlarge
+Linux r5d.16xlarge
+Linux r5d.24xlarge
+Windows r5d.large
+Windows r5d.xlarge
+Windows r5d.2xlarge
+Windows r5d.4xlarge
+Windows r5d.8xlarge
+Windows r5d.12xlarge
+Windows r5d.16xlarge
+Windows r5d.24xlarge
+RHEL r5d.large
+RHEL r5d.xlarge
+RHEL r5d.2xlarge
+RHEL r5d.4xlarge
+RHEL r5d.8xlarge
+RHEL r5d.12xlarge
+RHEL r5d.16xlarge
+RHEL r5d.24xlarge
+r5d.large
+r5d.xlarge
+r5d.2xlarge
+r5d.4xlarge
+r5d.8xlarge
+r5d.12xlarge
+r5d.16xlarge
+r5d.24xlarge
